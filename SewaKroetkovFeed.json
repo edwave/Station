@@ -2,29 +2,24 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Sewa Kroetkov blog",
     "home_page_url": "https://www.sewakroetkov.com/",
-    "feed_url": "http://shapeof.com/feed.json",
-    "description": "A website mostly about Mac stuff, written by Gus Mueller",
+    "feed_url": "https://github.com/edwave/Station/blob/master/SewaKroetkovFeed.json",
+    "description": "Sewa Kroetkov blog",
     "author": {
-        "name": "Gus Mueller"
+        "name": "Edoeard Kroetkov"
     },
-    "version": "https://jsonfeed.org/version/1",
-    "user_comment": "This is a podcast feed. You can add this feed to your podcast client using the following URL: http://therecord.co/feed.json",
-    "title": "The Record",
-    "home_page_url": "http://therecord.co/",
-    "feed_url": "http://therecord.co/feed.json",
     "items": [
         {
-            "id": "http://therecord.co/chris-parrish",
-            "title": "Special #1 - Chris Parrish",
-            "url": "http://therecord.co/chris-parrish",
-            "content_text": "Chris has worked at Adobe and as a founder of Rogue Sheep, which won an Apple Design Award for Postage. Chris’s new company is Aged & Distilled with Guy English — which shipped Napkin, a Mac app for visual collaboration. Chris is also the co-host of The Record. He lives on Bainbridge Island, a quick ferry ride from Seattle.",
-            "content_html": "Chris has worked at <a href=\"http://adobe.com/\">Adobe</a> and as a founder of Rogue Sheep, which won an Apple Design Award for Postage. Chris’s new company is Aged & Distilled with Guy English — which shipped <a href=\"http://aged-and-distilled.com/napkin/\">Napkin</a>, a Mac app for visual collaboration. Chris is also the co-host of The Record. He lives on <a href=\"http://www.ci.bainbridge-isl.wa.us/\">Bainbridge Island</a>, a quick ferry ride from Seattle.",
-            "summary": "Brent interviews Chris Parrish, co-host of The Record and one-half of Aged & Distilled.",
-            "date_published": "2014-05-09T14:04:00-07:00",
+            "id": "first",
+            "title": "Alkmaar",
+            "url": "https://www.sewakroetkov.com/",
+            "content_text": "Blog van Sewa",
+            "content_html": "Blog van Sewa",
+            "summary": "Blog van Sewa",
+            "date_published": "2017-12-27",
             "attachments": [
                 {
-                    "url": "http://therecord.co/downloads/The-Record-sp1e1-ChrisParrish.m4a",
-                    "mime_type": "audio/x-m4a",
+                    "url": "https://scontent-ams3-1.cdninstagram.com/vp/c50b257542dc787fc7fb32e4d76f0921/5A46D2FE/t50.2886-16/25581577_143747646284901_7831548413836525568_n.mp4",
+                    "mime_type": "video/mp4",
                     "size_in_bytes": 89970236,
                     "duration_in_seconds": 6629
                 }
