@@ -42,20 +42,10 @@
             "date_published": "2017-01-12",
            
         },
-         {
-            "id": 2,
-            "title": "Ленинград, Сумка",
-            "url": "https://www.instagram.com/p/BEOfGX3F90x/",
-            "mime_type": "video/mp4",
-            "content_text": "Blog van Sewa",
-            "content_html": "Blog van Sewa",
-            "summary": "Blog van Sewa",
-            "date_published": "2017-01-13",
-           
-        },
+        
       
         {
-            "id": 1,
+            "id": 2,
             "title": "Alkmaar, Netherlands",
             "url": "https://www.instagram.com/p/BdBHKOojqNf/",
             "mime_type": "video/mp4",
@@ -63,6 +53,17 @@
             "content_html": "Blog van Sewa",
             "summary": "Blog van Sewa",
             "date_published": "2017-12-27",
+           
+        },
+         {
+            "id": 1,
+            "title": "Leningrad, The Bag",
+            "url": "https://www.instagram.com/p/BEOfGX3F90x/",
+            "mime_type": "video/mp4",
+            "content_text": "Blog van Sewa",
+            "content_html": "Blog van Sewa",
+            "summary": "Blog van Sewa",
+            "date_published": "2017-01-13",
            
         }
          
