@@ -20,32 +20,32 @@
            
         },
         {
-            "url": "https://visualstudiomagazine.com/rss-feeds/blogs.aspx",
-            "language": "VS Blogs"
+            "url": "https://www.reddit.com/r/programming/.rss",
+            "language": "Reddit Programming Java"
            
         },
         
         {
-             "url": "https://visualstudiomagazine.com/rss-feeds/code.aspx",
-            "language": "VS Code Download"
+             "url": "https://www.joelonsoftware.com/feed/",
+            "language": "Joel on Software"
            
         },
           {
-             "url": "https://visualstudiomagazine.com/rss-feeds/columns.aspx",
-            "language": "VSM Columns"
+             "url": "https://herbsutter.com/feed/",
+            "language": "Sutter’s Mill"
            
         },
         
         {
-             "url": "https://visualstudiomagazine.com/rss-feeds/redmond-review.aspx",
-            "language": "VS Redmond Review"
+             "url": "http://steve-yegge.blogspot.com/feeds/posts/default",
+            "language": "Stevey's Blog Rants (Google employee)"
            
         },
         
       
         {
-             "url": "https://visualstudiomagazine.com/rss-feeds/practical-net.aspx",
-            "language": "VS Practical .NET"
+             "url": "http://thunk.org/tytso/blog/feed/",
+            "language": "Ted Tso, IBM employee, Linux kernel developer"
            
         }
          
