@@ -13,11 +13,10 @@
    
     "items": [
      {
-            "title": "VS Tech Library",
-            "url": "https://visualstudiomagazine.com/rss-feeds/tech-library.aspx",
-            "language": "VS Tech Library",
-            "source": "VS Tech Library"
-          
+            
+            "url": "https://www.ibm.com/developerworks/views/java/rss/libraryview.jsp",
+            "language": "IBM Developer : Java technology"
+       
            
         },
         {
