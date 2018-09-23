@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "RSS News feeds",
+    "home_page_url": "https://www.sewakroetkov.com/",
+    "feed_url": "https://github.com/edwave/Station/blob/master/RssNiewsFeeds.json",
+    "description": "RSS News feeds. Free World news",
+    "author": {
+        "name": "Free world news"
+    },
+    "shopUrl1":"https://thankyousupply.com/collections/sewa-kroetkov/products/blind-sewa-racer-7-75-skateboard-deck",
+    "shopUrl2":"https://thankyousupply.com/collections/sewa-kroetkov/products/blind-sewa-space-case-8-0-r7-skateboard-deck",
+    "shopUrl3":"https://thankyousupply.com/products/blind-sewa-tile-style-7-75-r7-skateboard-deck",
+   
+    "items": [
+     {
+            "title": "VS Tech Library",
+            "url": "https://visualstudiomagazine.com/rss-feeds/tech-library.aspx",
+            "language": "VS Tech Library",
+            "source": "VS Tech Library"
+          
+           
+        },
+        {
+            "url": "https://visualstudiomagazine.com/rss-feeds/blogs.aspx",
+            "language": "VS Blogs"
+           
+        },
+        
+        {
+             "url": "https://visualstudiomagazine.com/rss-feeds/code.aspx",
+            "language": "VS Code Download"
+           
+        },
+          {
+             "url": "https://visualstudiomagazine.com/rss-feeds/columns.aspx",
+            "language": "VSM Columns"
+           
+        },
+        
+        {
+             "url": "https://visualstudiomagazine.com/rss-feeds/redmond-review.aspx",
+            "language": "VS Redmond Review"
+           
+        },
+        
+      
+        {
+             "url": "https://visualstudiomagazine.com/rss-feeds/practical-net.aspx",
+            "language": "VS Practical .NET"
+           
+        }
+         
+    ]
+    
+}
