@@ -14,8 +14,15 @@
     "items": [
      {
             
-            "url": "https://www.ibm.com/developerworks/views/java/rss/libraryview.jsp",
-            "language": "IBM Developer : Java technology"
+            "url": "https://www.spaceotechnologies.com/feed/",
+            "language": "Space-O iOS, Android"
+       
+           
+        },
+         {
+            
+            "url": "https://www.raywenderlich.com/feed",
+            "language": "iOS, Android, Swift, Kotlin, Unity"
        
            
         },
@@ -44,8 +51,8 @@
         
       
         {
-             "url": "http://thunk.org/tytso/blog/feed/",
-            "language": "Ted Tso, IBM employee, Linux kernel developer"
+             "url": "https://iosdevweekly.com/issues.rss",
+            "language": "iOS Dev Weekly"
            
         }
          
