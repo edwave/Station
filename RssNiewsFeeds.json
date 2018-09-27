@@ -20,8 +20,8 @@
            
         },
         {
-            "url": "https://www.reddit.com/r/programming/.rss",
-            "language": "Reddit Programming Java"
+            "url": "https://news.google.com/news?cf=all&hl=en&pz=1&ned=us&q=android+developer&output=rss",
+            "language": "Android developer - Google News"
            
         },
         
@@ -31,14 +31,14 @@
            
         },
           {
-             "url": "https://herbsutter.com/feed/",
-            "language": "Sutter’s Mill"
+             "url": "https://android-arsenal.com/rss",
+            "language": "The Android Arsenal"
            
         },
         
         {
-             "url": "http://steve-yegge.blogspot.com/feeds/posts/default",
-            "language": "Stevey's Blog Rants (Google employee)"
+             "url": "https://commonsware.com/blog/feed.atom",
+            "language": "The Android. CommonsBlog."
            
         },
         
