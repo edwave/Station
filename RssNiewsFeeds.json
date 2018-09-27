@@ -26,8 +26,8 @@
         },
         
         {
-             "url": "https://www.joelonsoftware.com/feed/",
-            "language": "Joel on Software"
+             "url": "https://www.reddit.com/r/androiddev/.rss?format=xml",
+            "language": "Android developer - Reddit"
            
         },
           {
@@ -37,8 +37,8 @@
         },
         
         {
-             "url": "https://commonsware.com/blog/feed.atom",
-            "language": "The Android. CommonsBlog."
+             "url": "https://www.androidhive.info/feed/",
+            "language": "Android Tutorials"
            
         },
         
