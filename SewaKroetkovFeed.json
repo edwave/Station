@@ -12,7 +12,18 @@
     "shopUrl3":"https://thankyousupply.com/products/blind-sewa-tile-style-7-75-r7-skateboard-deck",
    
     "items": [
-     {
+       {
+            "id": 8,
+            "title": "Greece",
+            "url": "https://www.instagram.com/p/BoKttSLilL6/",
+            "mime_type": "video/mp4",
+            "content_text": "Blog van Sewa",
+            "content_html": "Blog van Sewa",
+            "summary": "Blog van Sewa",
+            "date_published": "2018-03-4"
+           
+        },
+        {
             "id": 7,
             "title": "Tampa, Florida",
             "url": "https://www.instagram.com/p/Bf41xCAjX_w/",
