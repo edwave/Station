@@ -12,6 +12,10 @@
     "shopUrl3":"https://thankyousupply.com/products/blind-sewa-tile-style-7-75-r7-skateboard-deck",
    
     "items": [
+        {
+              "url": "https://www.metronieuws.nl/rss.xml",
+            "language": "Metronieuws.nl"
+        },
      {
             
             "url": "https://www.spaceotechnologies.com/feed/",
