@@ -1,5 +1,7 @@
 {
-  [
+   "version": "https://jsonfeed.org/version/1",
+   "title": "RSS News feeds",
+   "items": [
     {
       "url": "https://www.metronieuws.nl/rss.xml",
       "source": "Metronieuws.nl"
