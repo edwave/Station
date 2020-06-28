@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+    {
+
+      "url": "https://www.spaceotechnologies.com/feed/",
+      "source": "Space-O iOS, Android"
+
+
+    },
+    {
+
+      "url": "https://oleb.net/blog/atom.xml",
+      "source": "Ole from Berlin. iOS blogs"
+
+
+    },
+    {
+      "url": "https://news.google.com/news?cf=all&hl=en&pz=1&ned=us&q=android+developer&output=rss",
+      "source": "Android developer - Google News"
+
+    },
+
+    {
+      "url": "https://dotnetkicks.com/feeds/rss",
+      "source": "DotNetKicks"
+
+    },
+    {
+      "url": "https://android-arsenal.com/rss",
+      "source": "The Android Arsenal"
+
+    },
+
+    {
+      "url": "https://www.androidhive.info/feed/",
+      "source": "Android Tutorials"
+
+    },
+
+
+    {
+      "url": "https://iosdevweekly.com/issues.rss",
+      "source": "iOS Dev Weekly"
+
+    }
+
+  ]
+}
