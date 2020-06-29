@@ -2,6 +2,47 @@
    "version": "https://jsonfeed.org/version/1",
    "title": "RSS News feeds",
    "items": [
+       {
+      "url": "http://www.nu.nl/rss/Algemeen",
+      "source": "nu.nl"
+    },
+       {
+      "url": "https://www.trouw.nl/nieuws/rss.xml",
+      "source": "Trouw nieuws"
+    },
+       {
+      "url": "https://www.trouw.nl/cultuur/rss.xml",
+      "source": "Trouw cultuur"
+    },
+       {
+      "url": "https://www.trouw.nl/samenleving/rss.xml",
+      "source": "Trouw samenleving"
+    },
+      
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
     {
       "url": "https://www.metronieuws.nl/rss.xml",
       "source": "Metronieuws.nl"
