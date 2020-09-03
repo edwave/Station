@@ -7,13 +7,22 @@
       "source": "nu.nl"
     },
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://lenta.ru/rss/top7",
+      "source": "lenta.ru"
     },
        {
       "url": "https://www.trouw.nl/nieuws/rss.xml",
       "source": "Trouw nieuws"
     },
+        {
+      "url": "https://www.nu.nl/rss/Gezondheid",
+      "source": "nu.nl Gezondheid"
+    },
+       {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+      
        {
       "url": "https://www.trouw.nl/cultuur/rss.xml",
       "source": "Trouw cultuur"
@@ -39,13 +48,59 @@
       "url": "https://hitech.vesti.ru/rss/",
       "source": "hitech.vesti.ru"
     },
-       {
-      "url": "https://lenta.ru/rss/top7",
-      "source": "lenta.ru"
+      
+     {
+      "url": "https://www.nu.nl/rss/tech",
+      "source": "nu.nl tech"
+    },
+      {
+      "url": "https://www.theguardian.com/uk/technology/rss",
+      "source": "theguardian uk technology"
+    },
+      {
+      "url": "http://www.dailymail.co.uk/articles.rss",
+      "source": "dailymail uk"
+    },
+      {
+      "url": "https://www.dailymail.co.uk/tvshowbiz/harry_styles/index.rss",
+      "source": "Daily Mail harry styles"
+    },
+      {
+      "url": "https://www.hellomagazine.com/rss.xml",
+      "source": "hello! magazine.com"
     },
        {
-      "url": "https://www.nu.nl/rss/Gezondheid",
-      "source": "nu.nl Gezondheid"
+      "url": "https://www.elle.com/rss/culture.xml",
+      "source": "Elle magazine"
+    },
+      
+         {
+      "url": "https://www.france24.com/fr/france/rss",
+      "source": "France24"
+    },
+      {
+      "url": "https://feeds.skynews.com/feeds/rss/businesshttps://spb.kp.ru/rss/allsections.xml.xml",
+      "source": "skynews business"
+    },
+      {
+      "url": "https://spb.kp.ru/rss/allsections.xml",
+      "source": "Комсомольская правда"
+    },
+      {
+      "url": "https://xml.corriereobjects.it/rss/homepage.xml",
+      "source": "Corriere della Sera IT"
+    },
+       {
+      "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
+      "source": "Spiegel.de"
+    },
+      {
+      "url": "http://estaticos.elmundo.es/elmundo/rss/espana.xml",
+      "source": "EL MUNDO"
+    },
+      {
+      "url": "https://www.elle.com/rss/fashion.xml",
+      "source": "ELLE magazine fashion"
     },
     {
       "url": "https://www.computerworld.com/category/operating-systems/index.rss",
