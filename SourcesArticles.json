@@ -7,6 +7,10 @@
       "source": "nu.nl"
     },
        {
+      "url": "https://www.metronieuws.nl/rss.xml",
+      "source": "Metronieuws.nl"
+    },
+       {
       "url": "https://www.trouw.nl/nieuws/rss.xml",
       "source": "Trouw nieuws"
     },
@@ -20,44 +24,48 @@
     },
       
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://lenta.ru/rss/news/business",
+      "source": "lenta.ru business"
     },
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://www.nu.nl/rss/geldzaken",
+      "source": "nu.nl geldzaken"
     },
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://www.nu.nl/rss/wonen",
+      "source": "nu.nl wonen"
     },
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://hitech.vesti.ru/rss/",
+      "source": "hitech.vesti.ru"
     },
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://lenta.ru/rss/top7",
+      "source": "lenta.ru"
     },
        {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://www.nu.nl/rss/Gezondheid",
+      "source": "nu.nl Gezondheid"
     },
     {
-      "url": "https://www.metronieuws.nl/rss.xml",
-      "source": "Metronieuws.nl"
+      "url": "https://www.computerworld.com/category/operating-systems/index.rss",
+      "source": "computerworld operating-systems"
     },
-    {
-
-      "url": "https://www.spaceotechnologies.com/feed/",
-      "source": "Space-O iOS, Android"
-
-
+       {
+      "url": "https://www.computerworld.com/category/security/index.rss",
+      "source": "computerworld security"
     },
     {
 
-      "url": "https://oleb.net/blog/atom.xml",
-      "source": "Ole from Berlin. iOS blogs"
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "source": "Apple newsroom"
+
+
+    },
+    {
+
+      "url": "https://developer.apple.com/news/rss/news.rss",
+      "source": "Apple developer"
 
 
     },
@@ -89,7 +97,21 @@
       "url": "https://iosdevweekly.com/issues.rss",
       "source": "iOS Dev Weekly"
 
-    }
+    },
+      {
+
+      "url": "https://www.spaceotechnologies.com/feed/",
+      "source": "Space-O iOS, Android"
+
+
+    },
+       {
+
+      "url": "https://oleb.net/blog/atom.xml",
+      "source": "Ole from Berlin. iOS blogs"
+
+
+    },
 
   ]
 }
