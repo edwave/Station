@@ -28,13 +28,13 @@
       "source": "Trouw cultuur"
     },
        {
-      "url": "https://www.trouw.nl/samenleving/rss.xml",
-      "source": "Trouw samenleving"
+      "url": "https://www.nrc.nl/sectie/tech-media/rss/",
+      "source": "NRC Tech"
     },
       
        {
-      "url": "https://lenta.ru/rss/news/business",
-      "source": "lenta.ru business"
+      "url": "https://www.foodlog.nl/site/rss/",
+      "source": "Foodlog.nl"
     },
        {
       "url": "https://www.nu.nl/rss/geldzaken",
