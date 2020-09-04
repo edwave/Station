@@ -44,10 +44,6 @@
       "url": "https://www.nu.nl/rss/wonen",
       "source": "nu.nl wonen"
     },
-       {
-      "url": "https://hitech.vesti.ru/rss/",
-      "source": "hitech.vesti.ru"
-    },
       
      {
       "url": "https://www.nu.nl/rss/tech",
@@ -55,28 +51,44 @@
     },
       {
       "url": "https://www.theguardian.com/uk/technology/rss",
-      "source": "theguardian uk technology"
+      "source": "The Guardian uk technology"
     },
       {
       "url": "http://www.dailymail.co.uk/articles.rss",
-      "source": "dailymail uk"
+      "source": "Daily Mail uk"
     },
-      {
-      "url": "https://www.dailymail.co.uk/tvshowbiz/harry_styles/index.rss",
-      "source": "Daily Mail harry styles"
-    },
+     
       {
       "url": "https://www.hellomagazine.com/rss.xml",
-      "source": "hello! magazine.com"
+      "source": "Hello! magazine"
     },
        {
       "url": "https://www.elle.com/rss/culture.xml",
-      "source": "Elle magazine"
+      "source": "Elle magazine culture"
     },
-      
+       {
+      "url": "https://www.elle.com/rss/fashion.xml",
+      "source": "ELLE magazine fashion"
+    },
+         {
+      "url": "https://www.elle.com/rss/beauty.xml",
+      "source": "ELLE magazine beauty"
+    },
+         {
+      "url": "https://www.volkskrant.nl/nieuws/rss.xml",
+      "source": "Volkskrant"
+    },
+         {
+      "url": "https://www.nrc.nl/rss/",
+      "source": "NRC Handelsblad"
+    },
          {
       "url": "https://www.france24.com/fr/france/rss",
       "source": "France24"
+    },
+       {
+      "url": "https://www.dailymail.co.uk/tvshowbiz/harry_styles/index.rss",
+      "source": "Daily Mail harry styles"
     },
       {
       "url": "https://feeds.skynews.com/feeds/rss/businesshttps://spb.kp.ru/rss/allsections.xml.xml",
@@ -98,10 +110,7 @@
       "url": "http://estaticos.elmundo.es/elmundo/rss/espana.xml",
       "source": "EL MUNDO"
     },
-      {
-      "url": "https://www.elle.com/rss/fashion.xml",
-      "source": "ELLE magazine fashion"
-    },
+     
     {
       "url": "https://www.computerworld.com/category/operating-systems/index.rss",
       "source": "computerworld operating-systems"
