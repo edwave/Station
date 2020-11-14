@@ -22,7 +22,14 @@
       "url": "https://www.metronieuws.nl/rss.xml",
       "source": "Metronieuws.nl"
     },
-      
+       {
+      "url": "https://www.trouw.nl/voorpagina/rss.xml",
+      "source": "Trouw voorpagina"
+    },
+       {
+      "url": "https://www.gezondheidinfo.com/feed/",
+      "source": "Gezondheid info"
+    },
        {
       "url": "https://www.trouw.nl/cultuur/rss.xml",
       "source": "Trouw cultuur"
@@ -52,6 +59,23 @@
       {
       "url": "https://www.theguardian.com/uk/technology/rss",
       "source": "The Guardian uk technology"
+    },
+        {
+      "url": "https://www.trouw.nl/verdieping/rss.xml",
+      "source": "Trouw verdieping"
+    },
+        {
+      "url": "https://www.ad.nl/den-haag/rss.xml",
+      "source": "AD Den Haag"
+    },
+        {
+      "url": "https://www.ewmagazine.nl/feed/",
+      "source": "Elsevier"
+    },
+      
+       {
+      "url": "https://www.trouw.nl/duurzaamheid-natuur/rss.xml",
+      "source": "Trouw duurzaamheid-natuur"
     },
       {
       "url": "http://www.dailymail.co.uk/articles.rss",
