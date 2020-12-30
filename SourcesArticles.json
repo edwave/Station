@@ -11,6 +11,10 @@
       "source": "lenta.ru"
     },
        {
+      "url": "https://www.omroepwest.nl/rss",
+      "source": "omroepwest.nl" 
+    },
+       {
       "url": "https://www.trouw.nl/nieuws/rss.xml",
       "source": "Trouw nieuws"
     },
