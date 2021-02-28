@@ -14,10 +14,8 @@
       "url": "https://www.omroepwest.nl/rss",
       "source": "omroepwest.nl" 
     },
-      {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/barcelona.xml",
-      "source": "El Mundo Barcelona"
-    },
+    
+      
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
       "source": "El Mundo Madrid"
@@ -30,10 +28,7 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/valencia.xml",
       "source": "El Mundo Valencia"
     },
-       {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/alicante.xml",
-      "source": "El Mundo Alicante"
-    },
+      
        {
       "url": "https://www.trouw.nl/nieuws/rss.xml",
       "source": "Trouw nieuws"
