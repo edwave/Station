@@ -15,6 +15,10 @@
       "source": "omroepwest.nl" 
     },
        {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
+      "source": "El Mundo"
+    },
+       {
       "url": "https://www.trouw.nl/nieuws/rss.xml",
       "source": "Trouw nieuws"
     },
@@ -23,6 +27,23 @@
       "source": "nu.nl Gezondheid"
     },
        {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml",
+      "source": "El Mundo Economia"
+    },
+      {
+      "url": "https://www.clarin.com/rss/tecnologia/",
+      "source": "Clarin.com - Tecnología"
+    },
+      {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+      "source": "Cultura - elmundo"
+    },
+    
+      {
+      "url": "https://www.clarin.com/rss/deportes/futbol-internacional/",
+      "source": "Clarin futbol-internacional"
+    },
+      {
       "url": "https://www.metronieuws.nl/rss.xml",
       "source": "Metronieuws.nl"
     },
