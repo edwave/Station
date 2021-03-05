@@ -20,6 +20,14 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
       "source": "El Mundo Madrid"
     },
+          {
+      "url": "http://api2.rtve.es/rss/temas_cataluna.xml",
+      "source": "Cataluña en rtve.es"
+    },
+        {
+      "url": "https://www.rtve.es/api/programas/1931/audios.rss",
+      "source": "RTVE 14 horas"
+    },
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
       "source": "El Mundo Espana"
