@@ -14,8 +14,14 @@
       "url": "https://www.omroepwest.nl/rss",
       "source": "omroepwest.nl" 
     },
-    
-      
+         {
+      "url": "https://www.nu.nl/rss/Economie",
+      "source": "nu.nl Economie" 
+    },
+       {
+      "url": "https://www.nu.nl/rss/wonen",
+      "source": "nu.nl wonen" 
+    },
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
       "source": "El Mundo Madrid"
