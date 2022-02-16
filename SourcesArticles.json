@@ -22,6 +22,10 @@
       "url": "https://www.nu.nl/rss/wonen",
       "source": "nu.nl wonen" 
     },
+      {
+      "url": "https://www.diariosur.es/rss/atom/?section=andalucia",
+      "source": "Andalucia"
+    },
        {
       "url": "https://www.nicematin.com/rss",
       "source": "Nice matin"
