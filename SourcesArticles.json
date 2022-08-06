@@ -7,8 +7,12 @@
       "source": "nu.nl"
     },
        {
-      "url": "https://lenta.ru/rss/top7",
-      "source": "lenta.ru"
+      "url": "https://fd.nl/?rss",
+      "source": "FD nieuws"
+    },
+         {
+      "url": "https://www.omroepwest.nl/rss/index.xml",
+      "source": "omroepwest.nl" 
     },
        {
       "url": "https://www.omroepwest.nl/rss/index.xml",
