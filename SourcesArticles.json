@@ -23,12 +23,28 @@
       "source": "vedomosti.ru" 
     },
         {
-      "url": "https://www.vedomosti.ru/rss/news",
-      "source": "vedomosti.ru" 
+      "url": "https://bnr.nl/opinie/bernard-hammelburg/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Bernard Hammelburg"  
     },
          {
-      "url": "https://www.vedomosti.ru/rss/news",
-      "source": "vedomosti.ru" 
+      "url": "https://www.bnr.nl/opinie/eugene-roorda/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Eugène Roorda" 
+    },
+         {
+      "url": "https://www.bnr.nl/opinie/hoofdredactie/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Hoofdredactie" 
+    },
+         {
+      "url": "https://www.bnr.nl/opinie/kees-de-kort/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Kees de Kort" 
+    },
+         {
+      "url": "https://www.bnr.nl/opinie/Kustaw-Bessems/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Kustaw Bessems" 
+    },
+         {
+      "url": "https://www.bnr.nl/opinie/Peter-Verhaar/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Peter Verhaar" 
     },
        {
       "url": "https://www.omroepwest.nl/rss/index.xml",
