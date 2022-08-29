@@ -22,14 +22,7 @@
       "url": "https://www.vedomosti.ru/rss/news",
       "source": "vedomosti.ru" 
     },
-        {
-      "url": "https://bnr.nl/opinie/bernard-hammelburg/?widget=rssfeed&view=podcastFeed&contentId=502",
-      "source": "BNR Bernard Hammelburg"  
-    },
-         {
-      "url": "https://www.bnr.nl/opinie/eugene-roorda/?widget=rssfeed&view=podcastFeed&contentId=502",
-      "source": "BNR Eugène Roorda" 
-    },
+       
          {
       "url": "https://www.bnr.nl/opinie/hoofdredactie/?widget=rssfeed&view=podcastFeed&contentId=502",
       "source": "BNR Hoofdredactie" 
@@ -38,13 +31,10 @@
       "url": "https://www.bnr.nl/opinie/kees-de-kort/?widget=rssfeed&view=podcastFeed&contentId=502",
       "source": "BNR Kees de Kort" 
     },
+    
          {
-      "url": "https://www.bnr.nl/opinie/Kustaw-Bessems/?widget=rssfeed&view=podcastFeed&contentId=502",
-      "source": "BNR Kustaw Bessems" 
-    },
-         {
-      "url": "https://www.bnr.nl/opinie/Peter-Verhaar/?widget=rssfeed&view=podcastFeed&contentId=502",
-      "source": "BNR Peter Verhaar" 
+      "url": "https://www.nrc.nl/rss/",
+      "source": "NRC Handelsblad"
     },
        {
       "url": "https://www.omroepwest.nl/rss/index.xml",
@@ -75,14 +65,7 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
       "source": "El Mundo Madrid"
     },
-          {
-      "url": "http://api2.rtve.es/rss/temas_cataluna.xml",
-      "source": "Cataluña en rtve.es"
-    },
-        {
-      "url": "https://www.rtve.es/api/programas/1931/audios.rss",
-      "source": "RTVE 14 horas"
-    },
+      
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
       "source": "El Mundo Espana"
@@ -133,10 +116,7 @@
       "url": "https://www.trouw.nl/cultuur/rss.xml",
       "source": "Trouw cultuur"
     },
-       {
-      "url": "https://www.nrc.nl/sectie/tech-media/rss/",
-      "source": "NRC Tech"
-    },
+     
       
        {
       "url": "https://www.foodlog.nl/site/rss/",
@@ -172,12 +152,9 @@
       "source": "Elsevier"
     },
       
-       {
-      "url": "https://www.trouw.nl/duurzaamheid-natuur/rss.xml",
-      "source": "Trouw duurzaamheid-natuur"
-    },
+     
       {
-      "url": "http://www.dailymail.co.uk/articles.rss",
+      "url": "https://www.dailymail.co.uk/articles.rss",
       "source": "Daily Mail uk"
     },
      
@@ -201,10 +178,7 @@
       "url": "https://www.volkskrant.nl/nieuws/rss.xml",
       "source": "Volkskrant"
     },
-         {
-      "url": "https://www.nrc.nl/rss/",
-      "source": "NRC Handelsblad"
-    },
+       
          {
       "url": "https://www.france24.com/fr/france/rss",
       "source": "France24"
@@ -213,10 +187,7 @@
       "url": "https://www.dailymail.co.uk/tvshowbiz/harry_styles/index.rss",
       "source": "Daily Mail harry styles"
     },
-      {
-      "url": "https://feeds.skynews.com/feeds/rss/businesshttps://spb.kp.ru/rss/allsections.xml.xml",
-      "source": "skynews business"
-    },
+     
       {
       "url": "https://spb.kp.ru/rss/allsections.xml",
       "source": "Комсомольская правда"
@@ -229,10 +200,7 @@
       "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
       "source": "Spiegel.de"
     },
-      {
-      "url": "http://estaticos.elmundo.es/elmundo/rss/espana.xml",
-      "source": "EL MUNDO"
-    },
+     
      
     {
       "url": "https://www.computerworld.com/category/operating-systems/index.rss",
@@ -267,38 +235,16 @@
       "source": "DotNetKicks"
 
     },
-    {
-      "url": "https://android-arsenal.com/rss",
-      "source": "The Android Arsenal"
+   
 
-    },
-
-    {
-      "url": "https://www.androidhive.info/feed/",
-      "source": "Android Tutorials"
-
-    },
+   
 
 
     {
       "url": "https://iosdevweekly.com/issues.rss",
       "source": "iOS Dev Weekly"
 
-    },
-      {
-
-      "url": "https://www.spaceotechnologies.com/feed/",
-      "source": "Space-O iOS, Android"
-
-
-    },
-       {
-
-      "url": "https://oleb.net/blog/atom.xml",
-      "source": "Ole from Berlin. iOS blogs"
-
-
-    },
+    }
 
   ]
 }
