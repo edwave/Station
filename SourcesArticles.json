@@ -47,6 +47,22 @@
       "url": "https://www.rainews.it/rss/cronaca",
       "source": "rainews cronaca" 
     },
+	 {
+      "url": "https://www.rainews.it/rss/artiespettacolo",
+      "source": "rainews arti e spettacolo" 
+    },
+	{
+      "url": "https://www.rainews.it/tgr/toscana/rss/tutti",
+      "source": "rainews toscana tutti" 
+    },
+	{
+      "url": "https://www.rainews.it/tgr/umbria/rss/tutti",
+      "source": "rainews umbria tutti" 
+    },
+	{
+      "url": "https://www.rainews.it/tgr/campania/rss/tutti",
+      "source": "rainews campania tutti" 
+    },
          {
       "url": "https://www.nrc.nl/rss/",
       "source": "NRC Handelsblad"
