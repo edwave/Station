@@ -3,16 +3,20 @@
    "title": "RSS News feeds",
    "items": [
        {
-      "url": "http://www.nu.nl/rss/Algemeen",
-      "source": "nu.nl"
+      "url": "https://fd.nl/?rss",
+      "source": "FD nieuws"
     },
       {
       "url": "https://lenta.ru/rss/top7",
       "source": "lenta.ru"
       },
-       {
-      "url": "https://fd.nl/?rss",
-      "source": "FD nieuws"
+        {
+      "url": "https://www.omroepwest.nl/rss/index.xml",
+      "source": "omroepwest.nl" 
+    },
+	 {
+      "url": "http://www.nu.nl/rss/Algemeen",
+      "source": "nu.nl"
     },
         {
       "url": "https://www.fontanka.ru/fontanka.rss",
@@ -39,14 +43,15 @@
       "url": "https://www.rainews.it/rss/societa",
       "source": "rainews societa" 
     },
+	 {
+      "url": "https://www.rainews.it/rss/cronaca",
+      "source": "rainews cronaca" 
+    },
          {
       "url": "https://www.nrc.nl/rss/",
       "source": "NRC Handelsblad"
     },
-       {
-      "url": "https://www.omroepwest.nl/rss/index.xml",
-      "source": "omroepwest.nl" 
-    },
+     
          {
       "url": "https://www.nu.nl/rss/Economie",
       "source": "nu.nl Economie" 
