@@ -27,13 +27,17 @@
       "url": "https://www.rainews.it/rss/tutti",
       "source": "rainews tutti" 
     },
-	    {
-      "url": "https://www.rainews.it/rss/stilidivitaetempolibero",
-      "source": "RaiNews - Stili di vita e tempo libero" 
+	 {
+      "url": "https://www.rainews.it/rss/economiaefinanza",
+      "source": "rainews economia e finanza" 
     },
-	    {
-      "url": "https://www.rainews.it/rss/viaggieturismo",
-      "source": "rainews viaggi e turismo" 
+	 {
+      "url": "https://www.rainews.it/rss/salute",
+      "source": "rainews salute" 
+    },
+	     {
+      "url": "https://www.rainews.it/rss/societa",
+      "source": "rainews societa" 
     },
          {
       "url": "https://www.nrc.nl/rss/",
@@ -245,7 +249,14 @@
     },
    
 
-   
+   {
+      "url": "https://www.rainews.it/rss/stilidivitaetempolibero",
+      "source": "RaiNews - Stili di vita e tempo libero" 
+    },
+	    {
+      "url": "https://www.rainews.it/rss/viaggieturismo",
+      "source": "rainews viaggi e turismo" 
+    },
 
 
     {
