@@ -23,15 +23,18 @@
       "source": "vedomosti.ru" 
     },
        
-         {
-      "url": "https://www.bnr.nl/opinie/hoofdredactie/?widget=rssfeed&view=podcastFeed&contentId=502",
-      "source": "BNR Hoofdredactie" 
+        {
+      "url": "https://www.rainews.it/rss/tutti",
+      "source": "rainews tutti" 
     },
-         {
-      "url": "https://www.bnr.nl/opinie/kees-de-kort/?widget=rssfeed&view=podcastFeed&contentId=502",
-      "source": "BNR Kees de Kort" 
+	    {
+      "url": "https://www.rainews.it/rss/stilidivitaetempolibero",
+      "source": "RaiNews - Stili di vita e tempo libero" 
     },
-    
+	    {
+      "url": "https://www.rainews.it/rss/viaggieturismo",
+      "source": "rainews viaggi e turismo" 
+    },
          {
       "url": "https://www.nrc.nl/rss/",
       "source": "NRC Handelsblad"
@@ -198,7 +201,15 @@
       "source": "Spiegel.de"
     },
      
-     
+         {
+      "url": "https://www.bnr.nl/opinie/hoofdredactie/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Hoofdredactie" 
+    },
+         {
+      "url": "https://www.bnr.nl/opinie/kees-de-kort/?widget=rssfeed&view=podcastFeed&contentId=502",
+      "source": "BNR Kees de Kort" 
+    },
+    
     {
       "url": "https://www.computerworld.com/category/operating-systems/index.rss",
       "source": "computerworld operating-systems"
