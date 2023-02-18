@@ -6,10 +6,35 @@
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
     },
+	 {
+      "url": "https://www.diariosur.es/rss/2.0/portada",
+      "source": "Andalucia"
+    },
+       {
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
       {
       "url": "https://lenta.ru/rss/top7",
       "source": "lenta.ru"
       },
+	  {
+      "url": "https://www.rainews.it/tgr/toscana/rss/tutti",
+      "source": "rainews toscana tutti" 
+    },
+	 {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+      "source": "Cultura - elmundo"
+    },
+    
+	{
+      "url": "https://www.rainews.it/tgr/umbria/rss/tutti",
+      "source": "rainews umbria tutti" 
+    },
+	{
+      "url": "https://www.rainews.it/tgr/campania/rss/tutti",
+      "source": "rainews campania tutti" 
+    },
         {
       "url": "https://www.omroepwest.nl/rss/index.xml",
       "source": "omroepwest.nl" 
@@ -76,14 +101,7 @@
       "url": "https://www.nu.nl/rss/wonen",
       "source": "nu.nl wonen" 
     },
-      {
-      "url": "https://www.diariosur.es/rss/2.0/portada",
-      "source": "Andalucia"
-    },
-       {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
-    },
+     
       {
       "url": "https://www.france24.com/en/france/rss",
       "source": "france24 france en"
@@ -119,11 +137,7 @@
       "url": "https://www.clarin.com/rss/tecnologia/",
       "source": "Clarin.com - Tecnología"
     },
-      {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
-      "source": "Cultura - elmundo"
-    },
-    
+     
       {
       "url": "https://www.clarin.com/rss/deportes/futbol-internacional/",
       "source": "Clarin futbol-internacional"
