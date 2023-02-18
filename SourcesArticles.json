@@ -151,9 +151,21 @@
       "url": "https://www.trouw.nl/voorpagina/rss.xml",
       "source": "Trouw voorpagina"
     },
-       {
+	    {
       "url": "https://www.gezondheidinfo.com/feed/",
       "source": "Gezondheid info"
+    },
+	    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "source": "Le Parisien"
+    },
+	    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs",
+      "source": "Le Parisien culture loisirs"
+    },
+       {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/immobilier",
+      "source": "Le Parisien - Immobilier"
     },
        {
       "url": "https://www.trouw.nl/cultuur/rss.xml",
