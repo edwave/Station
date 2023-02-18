@@ -26,6 +26,10 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
       "source": "Cultura - elmundo"
     },
+	   {
+      "url": "https://www.diariosur.es/rss/2.0/?section=ultima-hora",
+      "source": "Andalucia ultima hora"
+    },
     
 	{
       "url": "https://www.rainews.it/tgr/umbria/rss/tutti",
