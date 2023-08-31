@@ -70,7 +70,18 @@
       "url": "https://www.vedomosti.ru/rss/news",
       "source": "vedomosti.ru" 
     },
-       
+         {
+      "url": "https://www.theguardian.com/rss",
+      "source": "the guardian" 
+    },
+	    {
+      "url": "https://www.theguardian.com/theguardian/rss",
+      "source": "Newspaper the guardian" 
+    },
+	     {
+      "url": "https://www.theguardian.com/tone/comment/rss",
+      "source": "the guardian comment" 
+    },
         {
       "url": "https://www.rainews.it/rss/tutti",
       "source": "rainews tutti" 
