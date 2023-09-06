@@ -19,13 +19,10 @@
       "url": "https://www.rainews.it/tgr/toscana/rss/tutti",
       "source": "rainews toscana tutti" 
     },
-	   {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
-      "source": "El Mundo Madrid"
-    },
+	  
 	 {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
-      "source": " El Mundo Cultura"
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+      "source": " El Mundo Internacional"
     },
 	   
 	{
@@ -35,8 +32,8 @@
          
     
 	{
-      "url": "https://www.rainews.it/tgr/umbria/rss/tutti",
-      "source": "rainews umbria tutti" 
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
+      "source": "elmundo andalucia" 
     },
 	   {
       "url": "https://www.nicematin.com/ville/cagnes/rss",
@@ -142,7 +139,10 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
       "source": "El Mundo Espana"
     },
-
+ {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
+      "source": " El Mundo Cultura"
+    },
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/valencia.xml",
       "source": "El Mundo Valencia"
@@ -205,7 +205,10 @@
       "source": "Trouw cultuur"
     },
      
-      
+       {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
+      "source": "El Mundo Madrid"
+    },
        {
       "url": "https://www.foodlog.nl/site/rss/",
       "source": "Foodlog.nl"
