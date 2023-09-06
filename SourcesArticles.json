@@ -39,14 +39,7 @@
       "url": "https://www.nicematin.com/ville/cagnes/rss",
       "source": "Nice matin Cagnes-sur-mer" 
     },
-	    {
-      "url": "http://ep00.epimg.net/rss/ccaa/andalucia.xml",
-      "source": "El País Andalucía" 
-    }, 
-	{
-      "url": "https://www.rainews.it/tgr/campania/rss/tutti",
-      "source": "rainews campania tutti" 
-    },
+	
 	     {
       "url": "https://www.lavanguardia.com/rss/local/barcelona.xml",
       "source": "La Vanguardia Barcelona" 
@@ -69,7 +62,7 @@
     },
          {
       "url": "https://www.theguardian.com/uk/rss",
-      "source": "the guardian" 
+      "source": "The Guardian" 
     },
 	    {
       "url": "https://www.theguardian.com/theguardian/rss",
@@ -106,6 +99,10 @@
 	{
       "url": "https://www.rainews.it/tgr/toscana/rss/tutti",
       "source": "rainews toscana tutti" 
+    },
+	   {
+      "url": "https://www.rainews.it/tgr/campania/rss/tutti",
+      "source": "rainews campania tutti" 
     },
 	{
       "url": "https://www.rainews.it/tgr/umbria/rss/tutti",
@@ -176,6 +173,11 @@
       "url": "https://www.clarin.com/rss/deportes/futbol-internacional/",
       "source": "Clarin futbol-internacional"
     },
+	   
+	    {
+      "url": "http://ep00.epimg.net/rss/ccaa/andalucia.xml",
+      "source": "El País Andalucía" 
+    }, 
    {
       "url": "https://www.diariosur.es/rss/2.0/?section=ultima-hora",
       "source": "Andalucia ultima hora"
