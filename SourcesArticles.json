@@ -24,7 +24,10 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
       "source": " El Mundo Internacional"
     },
-	   
+	  {
+      "url": "https://www.rtp.pt/noticias/rss",
+      "source": "RTP Notícias Últimas " 
+    },    
 	{
       "url": "https://feedx.net/rss/people.xml",
       "source": "人民日報 Жэньминь Жибао Rénmín rìbào Народная Ежедневная Газета"
