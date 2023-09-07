@@ -68,7 +68,22 @@
       "url": "https://www.theguardian.com/uk/rss",
       "source": "The Guardian" 
     },
-	  
+	  {
+      "url": "https://www.gezondheidinfo.com/feed/",
+      "source": "Gezondheid info"
+    },
+	    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss",
+      "source": "Le Parisien"
+    },
+	    {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs",
+      "source": "Le Parisien culture loisirs"
+    },
+       {
+      "url": "https://feeds.leparisien.fr/leparisien/rss/immobilier",
+      "source": "Le Parisien - Immobilier"
+    },
 	     {
       "url": "https://www.theguardian.com/tone/comment/rss",
       "source": "the guardian comment" 
@@ -200,8 +215,8 @@
       "source": "Le Parisien culture loisirs"
     },
        {
-      "url": "https://feeds.leparisien.fr/leparisien/rss/immobilier",
-      "source": "Le Parisien - Immobilier"
+      "url": "https://www.noticiasaominuto.com/rss/ultima-hora",
+      "source": "Notícias ao Minuto"
     },
        {
       "url": "https://www.trouw.nl/cultuur/rss.xml",
