@@ -360,7 +360,10 @@
       "url": "https://www.rainews.it/rss/viaggieturismo",
       "source": "rainews viaggi e turismo" 
     },
-
+   {
+      "url": "https://www.chinanews.com.cn/rss/chinese.xml",
+      "source": "chinanews chinese" 
+    },
 
     {
       "url": "https://iosdevweekly.com/issues.rss",
