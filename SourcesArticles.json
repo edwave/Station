@@ -94,6 +94,30 @@
       "url": "https://www.rainews.it/rss/economiaefinanza",
       "source": "rainews economia e finanza" 
     },
+	    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
+      "source": "Libération Tous les articles" 
+    },
+	    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/culture/?outputType=xml",
+      "source": "Libération Culture" 
+    },
+	    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml",
+      "source": "Libération Politique" 
+    },
+	    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/economie/?outputType=xml",
+      "source": "Libération Economie" 
+    },
+	    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/idees-et-debats/?outputType=xml",
+      "source": "Libération Idées et Débats" 
+    },
+	    {
+      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/lifestyle/?outputType=xml",
+      "source": "Libération Lifestyle" 
+    },	   
 	 {
       "url": "https://www.rainews.it/rss/salute",
       "source": "rainews salute" 
