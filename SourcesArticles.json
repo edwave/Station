@@ -195,19 +195,7 @@
       "url": "https://www.telegraaf.nl/rss",
       "source": "De telegraaf voorpagina"
     },
-	   {
-      "url": "https://www.telegraaf.nl/nieuws/rss",
-      "source": "De telegraaf nieuws"
-    },
-	   {
-      "url": "https://www.telegraaf.nl/sport/rss",
-      "source": "De telegraaf sport"
-    },
-	   {
-      "url": "https://www.telegraaf.nl/entertainment/rss",
-      "source": "De telegraaf entertainment"
-    },
-	   {
+	      {
       "url": "https://www.telegraaf.nl/financieel/rss",
       "source": "De telegraaf Financieel"
     },
@@ -219,6 +207,19 @@
       "url": "https://www.telegraaf.nl/watuzegt/rss",
       "source": "De telegraaf wat u zegt"
     },
+	   {
+      "url": "https://www.telegraaf.nl/vrouw/rss",
+      "source": "De telegraaf vrouw"
+    },
+	   {
+      "url": "https://www.telegraaf.nl/sport/rss",
+      "source": "De telegraaf sport"
+    },
+	   {
+      "url": "https://www.telegraaf.nl/entertainment/rss",
+      "source": "De telegraaf entertainment"
+    },
+	
         {
       "url": "https://www.nu.nl/rss/Gezondheid",
       "source": "nu.nl Gezondheid"
