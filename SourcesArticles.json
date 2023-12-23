@@ -191,6 +191,10 @@
       "url": "https://www.trouw.nl/nieuws/rss.xml",
       "source": "Trouw nieuws"
     },
+	    {
+      "url": "https://www.telegraaf.nl/rss",
+      "source": "De telegraaf"
+    },
         {
       "url": "https://www.nu.nl/rss/Gezondheid",
       "source": "nu.nl Gezondheid"
