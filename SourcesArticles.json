@@ -66,6 +66,23 @@
       "url": "https://www.theguardian.com/uk/rss",
       "source": "The Guardian" 
     },
+	    {
+      "url": "https://www.nrc.nl/rss/",
+      "source": "NRC Handelsblad"
+    },
+       {
+      "url": "https://www.trouw.nl/nieuws/rss.xml",
+      "source": "Trouw nieuws"
+    },
+	    {
+      "url": "https://spb.kp.ru/rss/allsections.xml",
+      "source": "Комсомольская правда"
+    },
+	      {
+      "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
+      "source": "Spiegel.de"
+    },
+     
 	  {
       "url": "https://www.gezondheidinfo.com/feed/",
       "source": "Gezondheid info"
@@ -167,11 +184,7 @@
       "url": "https://www.rainews.it/tgr/campania/rss/tutti",
       "source": "rainews campania tutti" 
     },
-         {
-      "url": "https://www.nrc.nl/rss/",
-      "source": "NRC Handelsblad"
-    },
-     
+        
          {
       "url": "https://www.nu.nl/rss/Economie",
       "source": "nu.nl Economie" 
@@ -200,14 +213,15 @@
       "source": "El Mundo Valencia"
     },
       
-       {
-      "url": "https://www.trouw.nl/nieuws/rss.xml",
-      "source": "Trouw nieuws"
-    },
+     
 	 
 	      {
       "url": "https://www.telegraaf.nl/financieel/rss",
       "source": "De telegraaf Financieel"
+    },
+	    {
+      "url": "https://www.noticiasaominuto.com/rss/ultima-hora",
+      "source": "Notícias ao Minuto"
     },
 	   {
       "url": "https://www.telegraaf.nl/lifestyle/rss",
@@ -242,10 +256,7 @@
       "url": "https://www.clarin.com/rss/tecnologia/",
       "source": "Clarin.com - Tecnología"
     },
-     {
-      "url": "https://spb.kp.ru/rss/allsections.xml",
-      "source": "Комсомольская правда"
-    },
+    
      
       {
       "url": "https://www.clarin.com/rss/deportes/futbol-internacional/",
@@ -276,10 +287,7 @@
       "url": "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs",
       "source": "Le Parisien culture loisirs"
     },
-       {
-      "url": "https://www.noticiasaominuto.com/rss/ultima-hora",
-      "source": "Notícias ao Minuto"
-    },
+      
        {
       "url": "https://www.trouw.nl/cultuur/rss.xml",
       "source": "Trouw cultuur"
@@ -360,11 +368,7 @@
       "source": "Andalucia"
     },
       
-       {
-      "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
-      "source": "Spiegel.de"
-    },
-     
+    
          {
       "url": "https://www.bnr.nl/opinie/hoofdredactie/?widget=rssfeed&view=podcastFeed&contentId=502",
       "source": "BNR Hoofdredactie" 
