@@ -34,6 +34,14 @@
       "url": "https://www.rtp.pt/noticias/rss",
       "source": "RTP Notícias Últimas " 
     },
+	     {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "source": "New York Times world" 
+    },
+	     {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+      "source": "New York Times europe" 
+    },
 	       {
       "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
       "source": "Libération Tous les articles" 
