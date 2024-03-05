@@ -63,8 +63,8 @@
       "source": "nu.nl"
     },
 	   {
-      "url": "https://sputniknewsbr.com.br/news/",
-      "source": "sputniknewsbr.com" 
+      "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
+      "source": "FOLHA DE S.PAULO" 
     },
         {
       "url": "https://www.fontanka.ru/fontanka.rss",
