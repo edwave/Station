@@ -66,6 +66,10 @@
       "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
       "source": "FOLHA DE S.PAULO" 
     },
+	     {
+      "url": "https://g1.globo.com/rss/g1/brasil/",
+      "source": "O Globo" 
+    },
         {
       "url": "https://www.fontanka.ru/fontanka.rss",
       "source": "Фонтанка fontanka.ru" 
