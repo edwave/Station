@@ -62,6 +62,10 @@
       "url": "http://www.nu.nl/rss/Algemeen",
       "source": "nu.nl"
     },
+	   {
+      "url": "https://sputniknewsbr.com.br/news/",
+      "source": "sputniknewsbr.com" 
+    },
         {
       "url": "https://www.fontanka.ru/fontanka.rss",
       "source": "Фонтанка fontanka.ru" 
