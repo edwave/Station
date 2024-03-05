@@ -66,6 +66,11 @@
       "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
       "source": "FOLHA DE S.PAULO" 
     },
+	   {
+      "url": "https://www.gazetadopovo.com.br/feed/rss/republica.xml",
+      "source": "Gazeta do Povo" 
+    },
+	   
 	     {
       "url": "https://g1.globo.com/rss/g1/brasil/",
       "source": "O Globo" 
