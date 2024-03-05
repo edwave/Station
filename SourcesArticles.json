@@ -68,7 +68,11 @@
     },
 	   {
       "url": "https://www.gazetadopovo.com.br/feed/rss/republica.xml",
-      "source": "Gazeta do Povo" 
+      "source": "Gazeta do Povo republica" 
+    },
+	      {
+      "url": "https://www.gazetadopovo.com.br/feed/rss/mundo.xml",
+      "source": "Gazeta do Povo mundoo" 
     },
 	   
 	     {
