@@ -2,8 +2,14 @@
    "version": "https://jsonfeed.org/version/1",
    "title": "RSS News feeds",
    "items": [
-	    
-    
+	     {
+      "url": "https://www.politika.rs/rss",
+      "source": "POLITIKA na Balkanu" 
+    },  
+        {
+      "url": "https://g1.globo.com/rss/g1/brasil/",
+      "source": "O Globo" 
+    },
 	
        {
       "url": "https://www.nicematin.com/rss",
@@ -75,10 +81,7 @@
       "source": "Gazeta do Povo mundoo" 
     },
 	   
-	     {
-      "url": "https://g1.globo.com/rss/g1/brasil/",
-      "source": "O Globo" 
-    },
+	  
         {
       "url": "https://www.fontanka.ru/fontanka.rss",
       "source": "Фонтанка fontanka.ru" 
