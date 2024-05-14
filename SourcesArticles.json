@@ -6,6 +6,10 @@
       "url": "https://www.politika.rs/rss",
       "source": "POLITIKA na Balkanu" 
     },  
+	      {
+      "url": "https://www.blic.rs/rss/Vesti/Politika",
+      "source": "Blic na Balkanu" 
+    },  
         {
       "url": "https://g1.globo.com/rss/g1/brasil/",
       "source": "O Globo" 
