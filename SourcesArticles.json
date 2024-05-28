@@ -2,14 +2,15 @@
    "version": "https://jsonfeed.org/version/1",
    "title": "RSS News feeds",
    "items": [
-	     {
-      "url": "https://www.politika.rs/rss",
-      "source": "POLITIKA na Balkanu" 
-    },  
-	      {
-      "url": "https://www.blic.rs/rss/Vesti/Politika",
-      "source": "Blic na Balkanu" 
-    },  
+	    {
+      "url": "https://fd.nl/?rss",
+      "source": "FD nieuws"
+    },
+	    {
+      "url": "https://fd.nl/laatste-nieuws?rss",
+      "source": "FD laatste nieuws"
+    },
+	   
         {
       "url": "https://g1.globo.com/rss/g1/brasil/",
       "source": "O Globo" 
@@ -19,10 +20,7 @@
       "url": "https://www.nicematin.com/rss",
       "source": "Nice matin"
     },
-	      {
-      "url": "https://fd.nl/?rss",
-      "source": "FD nieuws"
-    },
+	     
 	   {
       "url": "https://www.dailymail.co.uk/articles.rss",
       "source": "Daily Mail uk"
@@ -37,8 +35,40 @@
       "source": "rainews tutti" 
     },
 	 {
-      "url": "https://xml.corriereobjects.it/rss/homepage.xml",
+      "url": "https://xml2.corriereobjects.it/rss/homepage.xml",
       "source": "Corriere della Sera IT"
+    },
+	   {
+      "url": "https://xml2.corriereobjects.it/rss/salute.xml",
+      "source": "Corriere della Sera salute"
+    },
+	    {
+      "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
+      "source": "Corriere della Sera homepage"
+    },
+	    {
+      "url": "http://forum.corriere.it/cardiologia/rss.xml",
+      "source": "Corriere della Sera cardiologia"
+    },
+	    {
+      "url": "https://www.corriere.it/dynamic-feed/rss/section/Spettacoli.xml",
+      "source": "Corriere della Sera Spettacoli show"
+    },
+	    {
+      "url": "https://xml2.corriereobjects.it/rss/cultura.xml",
+      "source": "Corriere della Sera cultura"
+    },
+	    {
+      "url": "http://forum.corriere.it/diabete/rss.xml",
+      "source": "Corriere della Sera diabete"
+    },
+	    {
+      "url": "https://www.corriere.it/dynamic-feed/rss/section/Bologna.xml",
+      "source": "Corriere della Sera Bologna"
+    },
+	    {
+      "url": "https://xml2.corriereobjects.it/rss/motori.xml",
+      "source": "Corriere della Sera motori"
     },
 	  {
       "url": "https://www.rtp.pt/noticias/rss",
@@ -149,7 +179,15 @@
       "url": "https://www.nicematin.com/ville/cagnes/rss",
       "source": "Nice matin Cagnes-sur-mer" 
     },
-	
+
+	     {
+      "url": "https://www.politika.rs/rss",
+      "source": "POLITIKA na Balkanu" 
+    },  
+	      {
+      "url": "https://www.blic.rs/rss/Vesti/Politika",
+      "source": "Blic na Balkanu" 
+    },  
 	     {
       "url": "https://www.lavanguardia.com/rss/local/barcelona.xml",
       "source": "La Vanguardia Barcelona" 
