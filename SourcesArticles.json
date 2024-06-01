@@ -35,8 +35,8 @@
       "source": "rainews tutti" 
     },
 	 {
-      "url": "https://www.dailymail.co.uk/news/ukraine/index.rss",
-      "source": "Dailymail ukraine"
+      "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+      "source": "Le Figaro actualites"
     },
 	   {
       "url": "https://www.dailymail.co.uk/home/index.rss",
