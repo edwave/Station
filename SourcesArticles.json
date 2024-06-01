@@ -42,16 +42,16 @@
       "source": "Figaro sante"
     },
 	    {
-      "url": "https://www.corriere.it/dynamic-feed/rss/section/Spettacoli.xml",
-      "source": "Corriere della Sera Spettacoli show"
+      "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
+      "source": "figaro_economie la une eco"
     },
 	    {
-      "url": "https://xml2.corriereobjects.it/rss/cultura.xml",
-      "source": "Corriere della Sera cultura"
+      "url": "https://www.lefigaro.fr/rss/figaro_finances-perso.xml",
+      "source": "figaro_finances-perso"
     },
 	    {
-      "url": "http://forum.corriere.it/diabete/rss.xml",
-      "source": "Corriere della Sera diabete"
+      "url": "https://www.lefigaro.fr/rss/figaro_sport.xml",
+      "source": "figaro_sport"
     },
 	    {
       "url": "https://www.corriere.it/dynamic-feed/rss/section/Bologna.xml",
