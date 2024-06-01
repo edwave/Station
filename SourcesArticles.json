@@ -13,8 +13,8 @@
     },
 	     
 	   {
-      "url": "https://www.dailymail.co.uk/articles.rss",
-      "source": "Daily Mail uk"
+      "url": "https://feeds.feedburner.com/lagazzettadelmezzogiorno/viyi6z8dkwu",
+      "source": "La Gazzetta del Mezzogiorno"
     },
       {
       "url": "https://lenta.ru/rss/top7",
@@ -31,7 +31,7 @@
     },
 	   {
       "url": "https://www.dailymail.co.uk/home/index.rss",
-      "source": "Dailymail top stories"
+      "source": "Daily Mail uk top stories"
     },
 	    {
       "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
@@ -74,8 +74,8 @@
       "source": "New York Times europe" 
     },
 	       {
-      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
-      "source": "Libération Tous les articles" 
+      "url": "https://www.repubblica.it/rss/cronaca/rss2.0.xml",
+      "source": "La Repubblica.it" 
     },
 	  {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
