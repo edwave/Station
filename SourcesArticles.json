@@ -203,8 +203,8 @@
     },
 	
 	    {
-      "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/culture/?outputType=xml",
-      "source": "Libération Culture" 
+      "url": "https://www.ilsole24ore.com/rss/italia--attualita.xml",
+      "source": "Il Sole 24 ORE - Italia Finance-Economia" 
     },
 	    {
       "url": "https://www.liberation.fr/arc/outboundfeeds/rss-all/category/politique/?outputType=xml",
