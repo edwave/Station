@@ -6,15 +6,6 @@
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
     },
-	    {
-      "url": "https://fd.nl/laatste-nieuws?rss",
-      "source": "FD laatste nieuws"
-    },
-	   
-        {
-      "url": "https://g1.globo.com/rss/g1/brasil/",
-      "source": "O Globo" 
-    },
 	
        {
       "url": "https://www.nicematin.com/rss",
@@ -47,8 +38,8 @@
       "source": "Corriere della Sera homepage"
     },
 	    {
-      "url": "http://forum.corriere.it/cardiologia/rss.xml",
-      "source": "Corriere della Sera cardiologia"
+      "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
+      "source": "Figaro sante"
     },
 	    {
       "url": "https://www.corriere.it/dynamic-feed/rss/section/Spettacoli.xml",
@@ -101,6 +92,10 @@
 	{
       "url": "http://www.nu.nl/rss/Algemeen",
       "source": "nu.nl"
+    },
+	     {
+      "url": "https://fd.nl/laatste-nieuws?rss",
+      "source": "FD laatste nieuws"
     },
 	   {
       "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
@@ -199,6 +194,12 @@
 	 {
       "url": "https://www.rainews.it/rss/economiaefinanza",
       "source": "rainews economia e finanza" 
+    },
+	  
+	   
+        {
+      "url": "https://g1.globo.com/rss/g1/brasil/",
+      "source": "O Globo" 
     },
 	
 	    {
