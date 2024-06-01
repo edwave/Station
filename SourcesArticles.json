@@ -35,12 +35,12 @@
       "source": "rainews tutti" 
     },
 	 {
-      "url": "https://xml2.corriereobjects.it/rss/homepage.xml",
-      "source": "Corriere della Sera IT"
+      "url": "https://www.dailymail.co.uk/news/ukraine/index.rss",
+      "source": "Dailymail ukraine"
     },
 	   {
-      "url": "https://xml2.corriereobjects.it/rss/salute.xml",
-      "source": "Corriere della Sera salute"
+      "url": "https://www.dailymail.co.uk/home/index.rss",
+      "source": "Dailymail top stories"
     },
 	    {
       "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
