@@ -6,7 +6,14 @@
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
     },
-	
+	{
+      "url": "https://www.sciencedaily.com/rss/top/health.xml",
+      "source": "ScienceDaily Health"
+    },
+	   {
+      "url": "https://www.sciencedaily.com/rss/most_popular.xml",
+      "source": "ScienceDaily most_popular"
+    },
        {
       "url": "https://www.nicematin.com/rss",
       "source": "Nice matin"
@@ -46,12 +53,12 @@
       "source": "figaro_economie la une eco"
     },
 	    {
-      "url": "https://www.lefigaro.fr/rss/figaro_finances-perso.xml",
-      "source": "figaro_finances-perso"
+      "url": "https://www.sciencedaily.com/rss/top/society.xml",
+      "source": "sciencedaily society "
     },
 	    {
-      "url": "https://www.lefigaro.fr/rss/figaro_sport.xml",
-      "source": "figaro_sport"
+      "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
+      "source": "sciencedaily strange_offbeat"
     },
 	    {
       "url": "https://www.corriere.it/dynamic-feed/rss/section/Bologna.xml",
