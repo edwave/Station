@@ -19,26 +19,37 @@
       "source": "Nice matin"
     },
 	     
-	   {
-      "url": "https://feeds.feedburner.com/lagazzettadelmezzogiorno/viyi6z8dkwu",
-      "source": "La Gazzetta del Mezzogiorno"
-    },
+	 
       {
       "url": "https://lenta.ru/rss/top7",
       "source": "lenta.ru"
       },
-	
-	    {
-      "url": "https://www.rainews.it/rss/tutti",
-      "source": "rainews tutti" 
+	{
+      "url": "https://www.dailymail.co.uk/health/index.rss",
+      "source": "Daily Mail uk health"
     },
+	    
+	    {
+      "url": "https://xml2.corriereobjects.it/rss/salute.xml",
+      "source": "Corriere della Sera Salute"
+    },
+	  
 	 {
       "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "source": "Le Figaro actualites"
     },
+	   
 	   {
       "url": "https://www.dailymail.co.uk/home/index.rss",
       "source": "Daily Mail uk top stories"
+    },
+	   {
+      "url": "https://xml2.corriereobjects.it/rss/moda.xml",
+      "source": "Corriere della Sera Moda"
+    },
+	     {
+      "url": "https://www.rainews.it/rss/tutti",
+      "source": "rainews tutti" 
     },
 	    {
       "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
@@ -48,9 +59,14 @@
       "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
       "source": "Figaro sante"
     },
+	   
 	    {
-      "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
-      "source": "figaro_economie la une eco"
+      "url": "https://www.lefigaro.fr/rss/figaro_mode-homme.xml",
+      "source": "Le Figaro mode-homme"
+    },
+	     {
+      "url": "https://feeds.feedburner.com/lagazzettadelmezzogiorno/viyi6z8dkwu",
+      "source": "La Gazzetta del Mezzogiorno"
     },
 	    {
       "url": "https://www.sciencedaily.com/rss/top/society.xml",
@@ -103,6 +119,10 @@
 	     {
       "url": "https://fd.nl/laatste-nieuws?rss",
       "source": "FD laatste nieuws"
+    },
+	    {
+      "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
+      "source": "figaro_economie la une eco"
     },
 	   {
       "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
@@ -444,6 +464,10 @@
       {
       "url": "https://www.diariosur.es/rss/2.0/portada",
       "source": "Andalucia"
+    },
+	     {
+      "url": "https://cdn.knmi.nl/knmi/xml/rss/rss_KNMIverwachtingen.xml",
+      "source": "KNMI verwachtingen" 
     },
       
     
