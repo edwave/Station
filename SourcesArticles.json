@@ -8,11 +8,19 @@
     },
 	{
       "url": "https://www.sciencedaily.com/rss/top/health.xml",
-      "source": "ScienceDaily Health"
+      "source": "Science Daily Health"
     },
 	   {
-      "url": "https://www.sciencedaily.com/rss/most_popular.xml",
-      "source": "ScienceDaily most_popular"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+      "source": "New York Times Health"
+    },
+	   {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+      "source": "elmundo portada" 
+    },
+	    {
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
+      "source": "El Pais Ultimas Noticias" 
     },
        {
       "url": "https://www.nicematin.com/rss",
@@ -68,14 +76,7 @@
       "url": "https://feeds.feedburner.com/lagazzettadelmezzogiorno/viyi6z8dkwu",
       "source": "La Gazzetta del Mezzogiorno"
     },
-	    {
-      "url": "https://www.sciencedaily.com/rss/top/society.xml",
-      "source": "sciencedaily society "
-    },
-	    {
-      "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
-      "source": "sciencedaily strange_offbeat"
-    },
+	 
 	    {
       "url": "https://www.corriere.it/dynamic-feed/rss/section/Bologna.xml",
       "source": "Corriere della Sera Bologna"
@@ -96,6 +97,11 @@
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
       "source": "New York Times europe" 
     },
+	    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
+      "source": "New York Times space and cosmos" 
+    },
+	   
 	       {
       "url": "https://www.repubblica.it/rss/cronaca/rss2.0.xml",
       "source": "La Repubblica.it" 
@@ -192,7 +198,14 @@
       "source": "人民日報 Жэньминь Жибао Rénmín rìbào Народная Ежедневная Газета"
     },
          
-    
+       {
+      "url": "https://www.sciencedaily.com/rss/top/society.xml",
+      "source": "Science Daily society "
+    },
+	    {
+      "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
+      "source": "Science Daily strange_offbeat"
+    },
 	{
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
       "source": "elmundo andalucia" 
@@ -390,7 +403,10 @@
       "url": "https://www.trouw.nl/cultuur/rss.xml",
       "source": "Trouw cultuur"
     },
-     
+      {
+      "url": "https://www.sciencedaily.com/rss/most_popular.xml",
+      "source": "ScienceDaily most_popular"
+    },
        {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/madrid.xml",
       "source": "El Mundo Madrid"
