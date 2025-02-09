@@ -101,7 +101,10 @@
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
       "source": "New York Times space and cosmos" 
     },
-	   
+	   {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "source": "New York Times home page" 
+    }, 
 	       {
       "url": "https://www.repubblica.it/rss/cronaca/rss2.0.xml",
       "source": "La Repubblica.it" 
