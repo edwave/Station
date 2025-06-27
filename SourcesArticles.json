@@ -7,12 +7,24 @@
       "source": "FD nieuws"
     },
 	{
-      "url": "https://www.sciencedaily.com/rss/top/health.xml",
-      "source": "Science Daily Health"
+      "url": "https://www.omroepwest.nl/rss/index.xml",
+      "source": "omroepwest.nl" 
     },
-	   {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-      "source": "New York Times Health"
+	    {
+      "url": "https://www.vedomosti.ru/rss/news",
+      "source": "vedomosti.ru" 
+    },
+       {
+      "url": "https://www.trouw.nl/nieuws/rss.xml",
+      "source": "Trouw nieuws"
+    },
+	    {
+      "url": "https://spb.kp.ru/rss/allsections.xml",
+      "source": "Комсомольская правда"
+    },
+	      {
+      "url": "https://www.telegraaf.nl/rss",
+      "source": "De telegraaf voorpagina"
     },
 	   {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
@@ -32,16 +44,31 @@
       "url": "https://lenta.ru/rss/top7",
       "source": "lenta.ru"
       },
-	{
-      "url": "https://www.dailymail.co.uk/health/index.rss",
-      "source": "Daily Mail uk health"
+	    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "source": "New York Times world" 
     },
-	    
+	     {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+      "source": "New York Times europe" 
+    },
+	     {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+      "source": " El Mundo Internacional"
+    },
+	
+	 	    {
+      "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
+      "source": "Corriere della Sera homepage"
+    },   
 	    {
       "url": "https://xml2.corriereobjects.it/rss/salute.xml",
       "source": "Corriere della Sera Salute"
     },
-	  
+	{
+      "url": "https://www.dailymail.co.uk/health/index.rss",
+      "source": "Daily Mail uk health"
+    },  
 	 {
       "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
       "source": "Le Figaro actualites"
@@ -59,10 +86,7 @@
       "url": "https://www.rainews.it/rss/tutti",
       "source": "rainews tutti" 
     },
-	    {
-      "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
-      "source": "Corriere della Sera homepage"
-    },
+
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
       "source": "Figaro sante"
@@ -89,13 +113,14 @@
       "url": "https://www.rtp.pt/noticias/rss",
       "source": "RTP Notícias Últimas " 
     },
-	     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "source": "New York Times world" 
+	    
+	   {
+      "url": "https://www.sciencedaily.com/rss/top/health.xml",
+      "source": "Science Daily Health"
     },
-	     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
-      "source": "New York Times europe" 
+	   {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+      "source": "New York Times Health"
     },
 	    {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
@@ -109,18 +134,8 @@
       "url": "https://www.repubblica.it/rss/cronaca/rss2.0.xml",
       "source": "La Repubblica.it" 
     },
-	  {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
-      "source": " El Mundo Internacional"
-    },
-        {
-      "url": "https://www.omroepwest.nl/rss/index.xml",
-      "source": "omroepwest.nl" 
-    },
-	      {
-      "url": "https://www.telegraaf.nl/rss",
-      "source": "De telegraaf voorpagina"
-    },
+	
+        
 	{
       "url": "http://www.nu.nl/rss/Algemeen",
       "source": "nu.nl"
@@ -151,10 +166,7 @@
       "url": "https://www.fontanka.ru/fontanka.rss",
       "source": "Фонтанка fontanka.ru" 
     },
-        {
-      "url": "https://www.vedomosti.ru/rss/news",
-      "source": "vedomosti.ru" 
-    },
+        
          {
       "url": "https://www.theguardian.com/uk/rss",
       "source": "The Guardian" 
@@ -163,14 +175,7 @@
       "url": "https://www.nrc.nl/rss/",
       "source": "NRC Handelsblad"
     },
-       {
-      "url": "https://www.trouw.nl/nieuws/rss.xml",
-      "source": "Trouw nieuws"
-    },
-	    {
-      "url": "https://spb.kp.ru/rss/allsections.xml",
-      "source": "Комсомольская правда"
-    },
+	  
 	      {
       "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
       "source": "Spiegel.de"
