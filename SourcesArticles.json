@@ -30,6 +30,22 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
       "source": "elmundo portada" 
     },
+	       {
+      "url": "https://ritmmsk.ru/",
+      "source": "Эхо Москвы"
+    },
+	       {
+      "url": "https://izvestia.ru/xml/rss/all.xml",
+      "source": "IZ.RU - Известия"
+    },
+	       {
+      "url": "https://www.interfax.ru/rss.asp",
+      "source": "Интерфакс"
+    },
+	       {
+      "url": "https://news.rambler.ru/rss/head/",
+      "source": "Главные новости — Рамблер"
+    },
 	    {
       "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
       "source": "El Pais Ultimas Noticias" 
@@ -560,3 +576,4 @@
 
   ]
 }
+
