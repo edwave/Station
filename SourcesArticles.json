@@ -31,12 +31,12 @@
       "source": "elmundo portada" 
     },
 	       {
-      "url": "https://ritmmsk.ru/",
+      "url": "http://ritmmsk.ru/",
       "source": "Эхо Москвы"
     },
 	       {
-      "url": "https://izvestia.ru/xml/rss/all.xml",
-      "source": "IZ.RU - Известия"
+      "url": "https://ria.ru/export/rss2/index.xml?page_type=google_newsstand",
+      "source": "РИА Новости"
     },
 	       {
       "url": "https://www.interfax.ru/rss.asp",
@@ -576,4 +576,5 @@
 
   ]
 }
+
 
