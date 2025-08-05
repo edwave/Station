@@ -11,8 +11,8 @@
       "source": "omroepwest.nl" 
     },
 	    {
-      "url": "https://www.vedomosti.ru/rss/news",
-      "source": "vedomosti.ru" 
+      "url": "https://meduza.io/rss2/all",
+      "source": "Meduza.io" 
     },
        {
       "url": "https://www.trouw.nl/nieuws/rss.xml",
@@ -576,5 +576,6 @@
 
   ]
 }
+
 
 
