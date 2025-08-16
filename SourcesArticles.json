@@ -10,14 +10,7 @@
       "url": "https://www.omroepwest.nl/rss/index.xml",
       "source": "omroepwest.nl" 
     },
-	    {
-      "url": "https://meduza.io/rss2/all",
-      "source": "Meduza.io" 
-    },
-       {
-      "url": "https://www.trouw.nl/nieuws/rss.xml",
-      "source": "Trouw nieuws"
-    },
+	   
 	    {
       "url": "https://spb.kp.ru/rss/allsections.xml",
       "source": "Комсомольская правда"
@@ -30,18 +23,7 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
       "source": "elmundo portada" 
     },
-	       {
-      "url": "http://ritmmsk.ru/",
-      "source": "Эхо Москвы"
-    },
-	       {
-      "url": "https://ria.ru/export/rss2/index.xml?page_type=google_newsstand",
-      "source": "РИА Новости"
-    },
-	       {
-      "url": "https://www.interfax.ru/rss.asp",
-      "source": "Интерфакс"
-    },
+	     
 	       {
       "url": "https://news.rambler.ru/rss/head/",
       "source": "Главные новости — Рамблер"
@@ -221,7 +203,6 @@
       "url": "https://feedx.net/rss/people.xml",
       "source": "人民日報 Жэньминь Жибао Rénmín rìbào Народная Ежедневная Газета"
     },
-         
        {
       "url": "https://www.sciencedaily.com/rss/top/society.xml",
       "source": "Science Daily society "
@@ -334,7 +315,18 @@
       "source": "france24 france en"
     },
       
-
+  {
+      "url": "http://ritmmsk.ru/",
+      "source": "Эхо Москвы"
+    },
+	       {
+      "url": "https://ria.ru/export/rss2/index.xml?page_type=google_newsstand",
+      "source": "РИА Новости"
+    },
+	       {
+      "url": "https://www.interfax.ru/rss.asp",
+      "source": "Интерфакс"
+    },
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
       "source": "El Mundo Espana"
@@ -576,6 +568,7 @@
 
   ]
 }
+
 
 
 
