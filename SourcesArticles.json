@@ -75,10 +75,7 @@
       "url": "https://www.abc.es/rss/2.0/ultima-hora/",
       "source": "ABC Ultima Hora"
     },
-	      {
-      "url": "https://www.abc.es/rss/2.0/opinion/",
-      "source": "ABC Opinion"
-    },
+	     
 	         {
       "url": "https://www.abc.es/rss/2.0/espana/andalucia/",
       "source": "ABC Andalucia"
@@ -614,6 +611,7 @@
 
   ]
 }
+
 
 
 
