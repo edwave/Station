@@ -68,8 +68,8 @@
       "source": "風水 Feng Shui"
     },
 	      {
-      "url": "https://www.abc.es/rss/2.0/portada/",
-      "source": "ABC Portada"
+      "url": "http://www.xinhuanet.com/politics/news_politics.xml",
+      "source": "我要链接 xinhua news politics"
     },
 	      {
       "url": "https://www.abc.es/rss/2.0/ultima-hora/",
@@ -614,6 +614,7 @@
 
   ]
 }
+
 
 
 
