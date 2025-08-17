@@ -32,11 +32,7 @@
       "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
       "source": "El Pais Ultimas Noticias" 
     },
-       {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
-    },
-	     
+      
 	 
       {
       "url": "https://lenta.ru/rss/top7",
@@ -63,6 +59,70 @@
       "url": "https://xml2.corriereobjects.it/rss/salute.xml",
       "source": "Corriere della Sera Salute"
     },
+	    {
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
+	      {
+      "url": "https://www.fengshui.net/feed/",
+      "source": "風水 Feng Shui"
+    },
+	      {
+      "url": "https://www.abc.es/rss/2.0/portada/",
+      "source": "ABC Portada"
+    },
+	      {
+      "url": "https://www.abc.es/rss/2.0/ultima-hora/",
+      "source": "ABC Ultima Hora"
+    },
+	      {
+      "url": "https://www.abc.es/rss/2.0/opinion/",
+      "source": "ABC Opinion"
+    },
+	         {
+      "url": "https://www.abc.es/rss/2.0/espana/andalucia/",
+      "source": "ABC Andalucia"
+    },
+	         {
+      "url": "https://www.abc.es/rss/2.0/salud/",
+      "source": "ABC salud"
+    },
+	         {
+      "url": "https://www.abc.es/rss/2.0/ciencia/",
+      "source": "ABC ciencia"
+    },
+	       {
+      "url": "https://www.elperiodico.com/es/cds/rss/?id=board.xml",
+      "source": "El Periódico portada"
+    },
+	       {
+      "url": "https://www.elperiodico.com/es/rss/sanidad/rss.xml",
+      "source": "El Periódico sanidad"
+    },
+	       {
+      "url": "https://www.elperiodico.com/es/rss/ciencia/rss.xml",
+      "source": "El Periódico ciencia"
+    },
+	     {
+      "url": "https://www.sciencedaily.com/rss/top/health.xml",
+      "source": "Science Daily Health"
+    },
+	   	{
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
+      "source": "elmundo andalucia" 
+    },
+	   {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+      "source": "New York Times Health"
+    },
+	    {
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+      "source": "EL PAÍS Ciencia"
+    },
+	    {
+      "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
+      "source": "Figaro sante"
+    },
 	{
       "url": "https://www.dailymail.co.uk/health/index.rss",
       "source": "Daily Mail uk health"
@@ -85,10 +145,6 @@
       "source": "rainews tutti" 
     },
 
-	    {
-      "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
-      "source": "Figaro sante"
-    },
 	   
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_mode-homme.xml",
@@ -112,14 +168,7 @@
       "source": "RTP Notícias Últimas " 
     },
 	    
-	   {
-      "url": "https://www.sciencedaily.com/rss/top/health.xml",
-      "source": "Science Daily Health"
-    },
-	   {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-      "source": "New York Times Health"
-    },
+	 
 	    {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
       "source": "New York Times space and cosmos" 
@@ -211,10 +260,7 @@
       "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
       "source": "Science Daily strange_offbeat"
     },
-	{
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
-      "source": "elmundo andalucia" 
-    },
+
 	   {
       "url": "https://www.nicematin.com/ville/cagnes/rss",
       "source": "Nice matin Cagnes-sur-mer" 
@@ -568,6 +614,7 @@
 
   ]
 }
+
 
 
 
