@@ -67,8 +67,68 @@
       "source": "Nice matin"
     },
 	      {
-      "url": "https://www.ft.com/news-feed?format=rss",
-      "source": "Financial Times"
+      "url": "https://www.ft.com/rss/home",
+      "source": "Financial Times (FT)"
+    },
+	      {
+      "url": "https://www.telegraaf.nl/financieel/rss",
+      "source": "Telegraaf financiële nieuwsartikelen"
+    },
+	      {
+      "url": "https://www.ft.com/markets?format=rss",
+      "source": "*(FT) Beurzen, aandelen, trading, macro"
+    },
+	      {
+      "url": "https://www.ft.com/global-economy?format=rss",
+      "source": "(FT) Macro-economie, centrale banken"
+    },
+	      {
+      "url": "https://www.ft.com/companies?format=rss",
+      "source": "(FT) Bedrijven en corporate nieuws"
+    },
+	      {
+      "url": "https://www.ft.com/world?format=rss",
+      "source": "(FT) Wereldnieuws met financiële impact"
+    },
+	      {
+      "url": "https://www.ft.com/opinion?format=rss",
+      "source": "(FT) Analyses en opinies"
+    },
+	    {
+      "url": "https://www.economist.com/finance-and-economics/rss.xml",
+      "source": "*The Economist. Diepe analyse, minder nieuws, meer context"
+    },
+	    {
+      "url": "https://www.reuters.com/finance/markets/rs",
+      "source": "*Reuters. Snel, professioneel, wereldwijd"
+    },
+	    {
+      "url": "https://www.lemonde.fr/en/economy/rss_full.xml",
+      "source": "*Le Monde.Europese economische kijk"
+    },
+	    {
+      "url": "https://www.cityam.com/feed/",
+      "source": "*CityIam.London markets & business"
+    },
+	    {
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
+	    {
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
+	    {
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
+	    {
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
+	      {
+      "url": "https://www.telegraaf.nl/financieel/geld/rss",
+      "source": "Telegraaf Persoonlijke financiën, sparen, belastingen"
     },
 	    {
       "url": "https://www.ft.com/news-feed?format=rss.&page=36",
