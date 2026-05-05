@@ -16,6 +16,26 @@
       "source": "omroepwest.nl" 
     },
 	   {
+      "url": "https://news.crunchbase.com/feed/",
+      "source": "*Crunchbase News"
+    },
+	    {
+      "url": "https://techcrunch.com/tag/acquisition/feed/",
+      "source": "*TechCrunch – Deals tag"
+    },
+	    {
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source": "*TechCrunch – AI Deals tag"
+    },
+	    {
+      "url": "https://sifted.eu/feed",
+      "source": "*sifted.Europese AI deals"
+    },
+	    {
+      "url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "source": "*Apple news room"
+    },
+	    {
       "url": "http://www.nu.nl/rss/Algemeen",
       "source": "nu.nl"
     },
