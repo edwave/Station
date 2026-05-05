@@ -6,6 +6,11 @@
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
     },
+	     {
+      "url": "https://www.telegraaf.nl/financieel/geld/rss",
+      "source": "Telegraaf Persoonlijke financiën, sparen, belastingen"
+    },
+	    
 	{
       "url": "https://www.omroepwest.nl/rss/index.xml",
       "source": "omroepwest.nl" 
@@ -22,26 +27,13 @@
       "url": "https://www.telegraaf.nl/rss",
       "source": "De telegraaf voorpagina"
     },
-	   {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
-      "source": "elmundo portada" 
-    },
+	  
 	     
 	       {
       "url": "https://news.rambler.ru/rss/head/",
       "source": "Главные новости — Рамблер"
     },
-	    {
-      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
-      "source": "El Pais Ultimas Noticias" 
-    },
-      
-	 
-      {
-      "url": "https://lenta.ru/rss/top7",
-      "source": "lenta.ru"
-      },
-	    {
+	   {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "source": "New York Times world" 
     },
@@ -53,20 +45,24 @@
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
       "source": " El Mundo Internacional"
     },
-	
+	{
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "source": "*CNBC.Real-time market sentiment"
+    },{
+      "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+      "source": "*MarketWatch.Praktisch voor beleggers"
+    },{
+      "url": "https://www.europeanfinancialreview.com/feed/",
+      "source": "*Europa-focused analyse"
+    },{
+      "url": "https://www.nicematin.com/rss",
+      "source": "Nice matin"
+    },
 	 	    {
       "url": "https://xml2.corriereobjects.it/feed-hp/homepage.xml",
       "source": "Corriere della Sera homepage"
     },   
-	    {
-      "url": "https://xml2.corriereobjects.it/rss/salute.xml",
-      "source": "Corriere della Sera Salute"
-    },
-	    {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
-    },
-	      {
+ {
       "url": "https://www.ft.com/rss/home",
       "source": "Financial Times (FT)"
     },
@@ -78,6 +74,34 @@
       "url": "https://www.ft.com/markets?format=rss",
       "source": "*(FT) Beurzen, aandelen, trading, macro"
     },
+	    {
+      "url": "https://www.lemonde.fr/en/economy/rss_full.xml",
+      "source": "*Le Monde.Europese economische kijk"
+    },
+	    {
+      "url": "https://www.cityam.com/feed/",
+      "source": "*CityIam.London markets & business"
+    },
+	    {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+      "source": "elmundo portada" 
+    },
+	    {
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
+      "source": "El Pais Ultimas Noticias" 
+    },
+      
+	 
+      {
+      "url": "https://lenta.ru/rss/top7",
+      "source": "lenta.ru"
+      },
+	    	    {
+      "url": "https://xml2.corriereobjects.it/rss/salute.xml",
+      "source": "Corriere della Sera Salute"
+    },
+	    
+	     
 	      {
       "url": "https://www.ft.com/global-economy?format=rss",
       "source": "(FT) Macro-economie, centrale banken"
@@ -98,42 +122,33 @@
       "url": "https://www.economist.com/finance-and-economics/rss.xml",
       "source": "*The Economist. Diepe analyse, minder nieuws, meer context"
     },
+	   
 	    {
-      "url": "https://www.reuters.com/finance/markets/rs",
-      "source": "*Reuters. Snel, professioneel, wereldwijd"
+      "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
+      "source": "*The Economic Times.Grootste business krant in Azië"
     },
+	   
 	    {
-      "url": "https://www.lemonde.fr/en/economy/rss_full.xml",
-      "source": "*Le Monde.Europese economische kijk"
-    },
-	    {
-      "url": "https://www.cityam.com/feed/",
-      "source": "*CityIam.London markets & business"
+      "url": "https://asia.nikkei.com/rss/feed/nar",
+      "source": "*Nikkei. Aziatische markten & geopolitiek"
     },
 	    {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
+      "url": "https://www.scmp.com/rss/91/feed/",
+      "source": "*South China Morning Post. China Asia finance geopolitiek."
     },
 	    {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
+      "url": "https://thediplomat.com/topics/economy/feed/",
+      "source": "*The Diplomat.Meer macro/politiek-economie"
+    },
+	   {
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "source": "*The Wall Street Journal.Klassiek + betrouwbaar"
     },
 	    {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
+      "url": "https://ir.thomsonreuters.com/rss/news-releases.xml?items=15",
+      "source": "Thomson Reuters"
     },
-	    {
-      "url": "https://www.nicematin.com/rss",
-      "source": "Nice matin"
-    },
-	      {
-      "url": "https://www.telegraaf.nl/financieel/geld/rss",
-      "source": "Telegraaf Persoonlijke financiën, sparen, belastingen"
-    },
-	    {
-      "url": "https://www.ft.com/news-feed?format=rss.&page=36",
-      "source": "Financial Times 2"
-    },
+	    
 	      {
       "url": "http://www.xinhuanet.com/politics/news_politics.xml",
       "source": "我要链接 xinhua news politics"
