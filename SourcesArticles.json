@@ -24,8 +24,8 @@
       "source": "*OpenAI news"
     },
 	    {
-      "url": "https://openai.com/news/rss.xml",
-      "source": "*OpenAI news"
+      "url": "https://blog.google/rss/",
+      "source": "*Google Nieuwe producten, AI, deals, strategie"
     },
 	    {
       "url": "https://newsroom.intel.com/feed",
