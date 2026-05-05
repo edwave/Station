@@ -20,6 +20,18 @@
       "source": "*Crunchbase News"
     },
 	    {
+      "url": "https://openai.com/news/rss.xml",
+      "source": "*OpenAI news"
+    },
+	    {
+      "url": "https://openai.com/news/rss.xml",
+      "source": "*OpenAI news"
+    },
+	    {
+      "url": "https://newsroom.intel.com/feed",
+      "source": "*intel news"
+    },
+	    {
       "url": "https://techcrunch.com/tag/acquisition/feed/",
       "source": "*TechCrunch – Deals tag"
     },
