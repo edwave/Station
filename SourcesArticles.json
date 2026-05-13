@@ -16,6 +16,11 @@
       "source": "omroepwest.nl" 
     },
 	   {
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "*Reuters news"
+    },
+	   
+	   {
       "url": "https://news.crunchbase.com/feed/",
       "source": "*Crunchbase News"
     },
