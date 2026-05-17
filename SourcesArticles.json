@@ -4,11 +4,11 @@
    "items": [
 	    {
       "url": "https://fd.nl/?rss",
-      "source": "*FD nieuws"
+      "source": "FD nieuws"
     },
 	     {
       "url": "https://www.telegraaf.nl/financieel/geld/rss",
-      "source": "Telegraaf Persoonlijke financiën, sparen, belastingen"
+      "source": "*Telegraaf Persoonlijke financiën, sparen, belastingen"
     },
 	    
 	{
@@ -59,7 +59,7 @@
     },
 	    {
       "url": "https://spb.kp.ru/rss/allsections.xml",
-      "source": "Комсомольская правда"
+      "source": "**Комсомольская правда"
     },
 	      {
       "url": "https://www.telegraaf.nl/rss",
@@ -67,7 +67,7 @@
     },
 	   {
       "url": "https://news.rambler.ru/rss/head/",
-      "source": "Главные новости — Рамблер"
+      "source": "**Главные новости — Рамблер"
     },
 	   {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
@@ -79,7 +79,7 @@
     },
 	     {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
-      "source": " El Mundo Internacional"
+      "source": "El Mundo Internacional"
     },
 	{
       "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
@@ -130,29 +130,29 @@
 	 
       {
       "url": "https://lenta.ru/rss/top7",
-      "source": "lenta.ru"
+      "source": "**lenta.ru"
       },
 	    	    {
       "url": "https://xml2.corriereobjects.it/rss/salute.xml",
-      "source": "Corriere della Sera Salute"
+      "source": "***Corriere della Sera Salute"
     },
 	    
 	     
 	      {
       "url": "https://www.ft.com/global-economy?format=rss",
-      "source": "(FT) Macro-economie, centrale banken"
+      "source": "*(FT) Macro-economie, centrale banken"
     },
 	      {
       "url": "https://www.ft.com/companies?format=rss",
-      "source": "(FT) Bedrijven en corporate nieuws"
+      "source": "*(FT) Bedrijven en corporate nieuws"
     },
 	      {
       "url": "https://www.ft.com/world?format=rss",
-      "source": "(FT) Wereldnieuws met financiële impact"
+      "source": "*(FT) Wereldnieuws met financiële impact"
     },
 	      {
       "url": "https://www.ft.com/opinion?format=rss",
-      "source": "(FT) Analyses en opinies"
+      "source": "*(FT) Analyses en opinies"
     },
 	    
 	   
@@ -182,7 +182,7 @@
     },
 	    {
       "url": "https://ir.thomsonreuters.com/rss/news-releases.xml?items=15",
-      "source": "Thomson Reuters"
+      "source": "*Thomson Reuters"
     },
 	    
 	      {
@@ -200,7 +200,7 @@
     },
 	         {
       "url": "https://www.abc.es/rss/2.0/salud/",
-      "source": "ABC salud"
+      "source": "***ABC salud"
     },
 	         {
       "url": "https://www.abc.es/rss/2.0/ciencia/",
@@ -212,7 +212,7 @@
     },
 	       {
       "url": "https://www.elperiodico.com/es/rss/sanidad/rss.xml",
-      "source": "El Periódico sanidad"
+      "source": "***El Periódico sanidad"
     },
 	       {
       "url": "https://www.elperiodico.com/es/rss/ciencia/rss.xml",
@@ -220,7 +220,7 @@
     },
 	     {
       "url": "https://www.sciencedaily.com/rss/top/health.xml",
-      "source": "Science Daily Health"
+      "source": "***Science Daily Health"
     },
 	   	{
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
@@ -228,7 +228,7 @@
     },
 	   {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
-      "source": "New York Times Health"
+      "source": "***New York Times Health"
     },
 	    {
       "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
@@ -236,11 +236,11 @@
     },
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
-      "source": "Figaro sante"
+      "source": "***Figaro sante"
     },
 	{
       "url": "https://www.dailymail.co.uk/health/index.rss",
-      "source": "Daily Mail uk health"
+      "source": "***Daily Mail uk health"
     },  
 	 {
       "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
@@ -335,7 +335,7 @@
     },
 	    {
       "url": "https://www.nrc.nl/rss/",
-      "source": "NRC Handelsblad"
+      "source": "*NRC Handelsblad"
     },
 	  
 	      {
@@ -345,7 +345,7 @@
      
 	  {
       "url": "https://www.gezondheidinfo.com/feed/",
-      "source": "Gezondheid info"
+      "source": "***Gezondheid info"
     },
 	    {
       "url": "https://feeds.leparisien.fr/leparisien/rss",
@@ -433,7 +433,7 @@
     },	   
 	 {
       "url": "https://www.rainews.it/rss/salute",
-      "source": "rainews salute" 
+      "source": "***rainews salute" 
     },
 	     {
       "url": "https://www.rainews.it/rss/societa",
@@ -481,7 +481,7 @@
       
   {
       "url": "http://ritmmsk.ru/",
-      "source": "Эхо Москвы"
+      "source": "**Эхо Москвы"
     },
 	       {
       "url": "https://ria.ru/export/rss2/index.xml?page_type=google_newsstand",
@@ -489,7 +489,7 @@
     },
 	       {
       "url": "https://www.interfax.ru/rss.asp",
-      "source": "Интерфакс"
+      "source": "**Интерфакс"
     },
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml",
@@ -508,7 +508,7 @@
 	 
 	      {
       "url": "https://www.telegraaf.nl/financieel/rss",
-      "source": "De telegraaf Financieel"
+      "source": "*De telegraaf Financieel"
     },
 	    {
       "url": "https://www.noticiasaominuto.com/rss/ultima-hora",
@@ -537,7 +537,7 @@
 	
         {
       "url": "https://www.nu.nl/rss/Gezondheid",
-      "source": "nu.nl Gezondheid"
+      "source": "***nu.nl Gezondheid"
     },
        {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml",
@@ -568,7 +568,7 @@
     },
 	    {
       "url": "https://www.gezondheidinfo.com/feed/",
-      "source": "Gezondheid info"
+      "source": "***Gezondheid info"
     },
 	    {
       "url": "https://feeds.leparisien.fr/leparisien/rss",
