@@ -4,7 +4,7 @@
    "items": [
 	    {
       "url": "https://fd.nl/?rss",
-      "source": "FD nieuws"
+      "source": "*FD nieuws"
     },
 	     {
       "url": "https://www.telegraaf.nl/financieel/geld/rss",
