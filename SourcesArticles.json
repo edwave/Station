@@ -64,8 +64,7 @@
       "url": "https://www.telegraaf.nl/rss",
       "source": "De telegraaf voorpagina"
     },
-	  { "url": "https://feeds.feedburner.com/tedtalks_video", "source": "TED Talks Video" },
-{ "url": "https://feeds.twit.tv/twit_video_hd.xml",     "source": "TWiT" },
+	  
 	     
 	       {
       "url": "https://news.rambler.ru/rss/head/",
