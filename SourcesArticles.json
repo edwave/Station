@@ -19,7 +19,8 @@
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "source": "*Reuters news"
     },
-	   
+	   { "url": "https://feeds.feedburner.com/tedtalks_video", "source": "TED Talks Video" },
+{ "url": "https://feeds.twit.tv/twit_video_hd.xml",     "source": "TWiT" },
 	   {
       "url": "https://news.crunchbase.com/feed/",
       "source": "*Crunchbase News"
@@ -64,9 +65,7 @@
       "url": "https://www.telegraaf.nl/rss",
       "source": "De telegraaf voorpagina"
     },
-	  
-	     
-	       {
+	   {
       "url": "https://news.rambler.ru/rss/head/",
       "source": "Главные новости — Рамблер"
     },
