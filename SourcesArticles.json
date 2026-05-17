@@ -129,7 +129,7 @@
       
 	 
       {
-      "url": "https://lenta.ru/rss/top7",
+      "url": "https://lenta.ru/rss/google-newsstand/main/",
       "source": "**lenta.ru"
       },
 	    	    {
@@ -216,7 +216,7 @@
     },
 	       {
       "url": "https://www.elperiodico.com/es/rss/ciencia/rss.xml",
-      "source": "El Periódico ciencia"
+      "source": "****El Periódico ciencia"
     },
 	     {
       "url": "https://www.sciencedaily.com/rss/top/health.xml",
@@ -494,7 +494,7 @@
     },
  {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/cultura.xml",
-      "source": " El Mundo Cultura"
+      "source": "****El Mundo Cultura"
     },
       {
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/valencia.xml",
