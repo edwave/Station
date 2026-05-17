@@ -253,7 +253,7 @@
     },
 	   {
       "url": "https://xml2.corriereobjects.it/rss/moda.xml",
-      "source": "Corriere della Sera Moda"
+      "source": "****Corriere della Sera Moda"
     },
 	     {
       "url": "https://www.rainews.it/rss/tutti",
@@ -263,7 +263,7 @@
 	   
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_mode-homme.xml",
-      "source": "Le Figaro mode-homme"
+      "source": "****Le Figaro mode-homme"
     },
 	     {
       "url": "https://feeds.feedburner.com/lagazzettadelmezzogiorno/viyi6z8dkwu",
@@ -290,7 +290,7 @@
     },
 	   {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-      "source": "New York Times home page" 
+      "source": "****New York Times home page" 
     }, 
 	       {
       "url": "https://www.repubblica.it/rss/cronaca/rss2.0.xml",
@@ -298,17 +298,14 @@
     },
 	
         
-	{
-      "url": "http://www.nu.nl/rss/Algemeen",
-      "source": "nu.nl"
-    },
+	
 	     {
       "url": "https://fd.nl/laatste-nieuws?rss",
       "source": "FD laatste nieuws"
     },
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_economie.xml",
-      "source": "figaro_economie la une eco"
+      "source": "*figaro_economie la une eco"
     },
 	   {
       "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
@@ -324,10 +321,7 @@
     },
 	   
 	  
-        {
-      "url": "https://www.fontanka.ru/fontanka.rss",
-      "source": "Фонтанка fontanka.ru" 
-    },
+       
         
          {
       "url": "https://www.theguardian.com/uk/rss",
@@ -350,15 +344,15 @@
     },
 	    {
       "url": "https://feeds.leparisien.fr/leparisien/rss/culture-loisirs",
-      "source": "Le Parisien culture loisirs"
+      "source": "****Le Parisien culture loisirs"
     },
        {
       "url": "https://feeds.leparisien.fr/leparisien/rss/immobilier",
-      "source": "Le Parisien - Immobilier"
+      "source": "****Le Parisien - Immobilier"
     },
 	     {
       "url": "https://www.theguardian.com/tone/comment/rss",
-      "source": "the guardian comment" 
+      "source": "****the guardian comment" 
     },
       {
       "url": "https://feedx.net/rss/people.xml",
@@ -366,16 +360,16 @@
     },
        {
       "url": "https://www.sciencedaily.com/rss/top/society.xml",
-      "source": "Science Daily society "
+      "source": "****Science Daily society "
     },
 	    {
       "url": "https://www.sciencedaily.com/rss/strange_offbeat.xml",
-      "source": "Science Daily strange_offbeat"
+      "source": "****Science Daily strange_offbeat"
     },
 
 	   {
       "url": "https://www.nicematin.com/ville/cagnes/rss",
-      "source": "Nice matin Cagnes-sur-mer" 
+      "source": "****Nice matin Cagnes-sur-mer" 
     },
 
 	     {
