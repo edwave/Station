@@ -154,10 +154,7 @@
       "url": "https://www.ft.com/opinion?format=rss",
       "source": "(FT) Analyses en opinies"
     },
-	    {
-      "url": "https://www.economist.com/finance-and-economics/rss.xml",
-      "source": "*The Economist. Diepe analyse, minder nieuws, meer context"
-    },
+	    
 	   
 	    {
       "url": "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
@@ -168,11 +165,14 @@
       "url": "https://asia.nikkei.com/rss/feed/nar",
       "source": "*Nikkei. Aziatische markten & geopolitiek"
     },
-	    {
-      "url": "https://www.scmp.com/rss/91/feed/",
-      "source": "*South China Morning Post. China Asia finance geopolitiek."
-    },
-	    {
+	   {
+  "url": "https://www.economist.com/finance-and-economics/rss.xml",
+  "source": "*The Economist. Diepe analyse, minder nieuws, meer context"
+},
+{
+  "url": "https://www.scmp.com/rss/91/feed/",
+  "source": "*South China Morning Post. China Asia finance geopolitiek."
+},	    {
       "url": "https://thediplomat.com/topics/economy/feed/",
       "source": "*The Diplomat.Meer macro/politiek-economie"
     },
