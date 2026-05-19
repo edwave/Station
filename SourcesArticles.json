@@ -27,7 +27,7 @@
 	   {
       "url": "https://news.crunchbase.com/feed/",
       "source": "*Crunchbase News"
-    },OpenAI news
+    },
 	    {
       "url": "https://openai.com/news/rss.xml",
       "source": "*OpenAI news"
