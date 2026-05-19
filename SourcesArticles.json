@@ -10,7 +10,10 @@
       "url": "https://www.telegraaf.nl/financieel/geld/rss",
       "source": "*Telegraaf Persoonlijke financiën, sparen, belastingen"
     },
-	    
+	    {
+      "url": "https://www.corriere.it/dynamic-feed/rss/section/Roma.xml",
+      "source": "Corriere della Sera Roma"
+    },
 	{
       "url": "https://www.omroepwest.nl/rss/index.xml",
       "source": "omroepwest.nl" 
@@ -24,7 +27,7 @@
 	   {
       "url": "https://news.crunchbase.com/feed/",
       "source": "*Crunchbase News"
-    },
+    },OpenAI news
 	    {
       "url": "https://openai.com/news/rss.xml",
       "source": "*OpenAI news"
