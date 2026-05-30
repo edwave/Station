@@ -217,6 +217,7 @@
       "url": "https://www.elperiodico.com/es/rss/sanidad/rss.xml",
       "source": "***El Periódico sanidad"
     },
+	   
 	       {
       "url": "https://www.elperiodico.com/es/rss/ciencia/rss.xml",
       "source": "****El Periódico ciencia"
@@ -225,18 +226,32 @@
       "url": "https://www.sciencedaily.com/rss/top/health.xml",
       "source": "***Science Daily Health"
     },
-	   	{
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
-      "source": "****elmundo andalucia" 
-    },
-	   {
+	    {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
       "source": "***New York Times Health"
     },
 	    {
-      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
-      "source": "****EL PAÍS Ciencia"
+      "url": "https://www.sciencenews.org/feed",
+      "source": "****Sciencenews.org"
     },
+	    {
+      "url": "https://nutrition.bmj.com/rss/ahead.xml",
+      "source": "***BMJ Nutrition, Prevention & Health Online First"
+    },
+	    {
+      "url": "https://science.nasa.gov/feed/",
+      "source": "****NASA Science.Image of the day"
+    },
+	    {
+      "url": "https://www.newscientist.com/feed/home/",
+      "source": "****New Scientist - Home"
+    },
+	   	{
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/andalucia.xml",
+      "source": "****elmundo andalucia" 
+    },
+	  
+	   
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_sante.xml",
       "source": "***Figaro sante"
@@ -263,7 +278,10 @@
       "source": "rainews tutti" 
     },
 
-	   
+	    {
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada",
+      "source": "****EL PAÍS Ciencia"
+    },
 	    {
       "url": "https://www.lefigaro.fr/rss/figaro_mode-homme.xml",
       "source": "****Le Figaro mode-homme"
