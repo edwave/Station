@@ -2,6 +2,10 @@
    "version": "https://jsonfeed.org/version/1",
    "title": "RSS News feeds",
    "items": [
+	   {
+      "url": "https://www.kinopoisk.ru/news.rss",
+      "source": "Kinopoisk RU"
+    },
 	    {
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
