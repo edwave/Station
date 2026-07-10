@@ -2,9 +2,13 @@
    "version": "https://jsonfeed.org/version/1",
    "title": "RSS News feeds",
    "items": [
+	    {
+      "url": "https://www.kommersant.ru/rss/main.xml",
+      "source": "**Коммерсантъ"
+    },
 	   {
       "url": "https://www.kinopoisk.ru/news.rss",
-      "source": "Kinopoisk RU"
+      "source": "**Kinopoisk RU"
     },
 	    {
       "url": "https://fd.nl/?rss",
