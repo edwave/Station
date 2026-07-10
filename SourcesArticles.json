@@ -2,34 +2,7 @@
    "version": "https://jsonfeed.org/version/1",
    "title": "RSS News feeds",
    "items": [
-	    {
-      "url": "https://www.kommersant.ru/rss/main.xml",
-      "source": "**Коммерсантъ"
-    },
-	     {
-      "url": "https://www.mk.ru/rss/index.xml",
-      "source": "**Московский Комсомолец"
-    },
-	     {
-      "url": "https://rg.ru/xml/index.xml",
-      "source": "**Российская газета"
-    },
-	     {
-      "url": "https://www.gazeta.ru/export/rss/first.xml",
-      "source": "**Газета.Ru"
-    },
-	     {
-      "url": "https://www.kommersant.ru/rss/main.xml",
-      "source": "**Коммерсантъ"
-    },
-	     {
-      "url": "https://www.kommersant.ru/rss/main.xml",
-      "source": "**Коммерсантъ"
-    },
-	   {
-      "url": "https://www.kinopoisk.ru/news.rss",
-      "source": "**Kinopoisk RU"
-    },
+	 
 	    {
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
@@ -763,7 +736,26 @@
       "url": "https://www.chinanews.com.cn/rss/chinese.xml",
       "source": "chinanews chinese" 
     },
-
+   {
+      "url": "https://www.kommersant.ru/rss/main.xml",
+      "source": "**Коммерсантъ"
+    },
+	     {
+      "url": "https://www.mk.ru/rss/index.xml",
+      "source": "**Московский Комсомолец"
+    },
+	     {
+      "url": "https://rg.ru/xml/index.xml",
+      "source": "**Российская газета"
+    },
+	     {
+      "url": "https://www.gazeta.ru/export/rss/first.xml",
+      "source": "**Газета.Ru"
+    },
+	   {
+      "url": "https://www.kinopoisk.ru/news.rss",
+      "source": "**Kinopoisk RU"
+    },
     {
       "url": "https://iosdevweekly.com/issues.rss",
       "source": "iOS Dev Weekly"
