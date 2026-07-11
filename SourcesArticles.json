@@ -736,10 +736,174 @@
       "url": "https://www.chinanews.com.cn/rss/chinese.xml",
       "source": "chinanews chinese" 
     },
-   {
-      "url": "https://www.kommersant.ru/rss/main.xml",
-      "source": "**Коммерсантъ"
-    },
+    {
+    "url": "https://www.kommersant.ru/RSS/main.xml",
+    "source": "**Коммерсантъ"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/news.xml",
+    "source": "**Коммерсантъ — Лента новостей"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/corp.xml",
+    "source": "**Коммерсантъ Online"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/review.xml",
+    "source": "**Коммерсантъ — Review"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/science.xml",
+    "source": "**Коммерсантъ — Наука"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/money.xml",
+    "source": "**Коммерсантъ — Деньги"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/radio.xml",
+    "source": "**Коммерсантъ FM"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-specproject.xml",
+    "source": "**Коммерсантъ — Спецпроекты"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-specials.xml",
+    "source": "**Коммерсантъ — Мультимедиа"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/tema.xml",
+    "source": "**Коммерсантъ — Тематические приложения"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-politics.xml",
+    "source": "**Коммерсантъ — Политика"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-economics.xml",
+    "source": "**Коммерсантъ — Экономика"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-business.xml",
+    "source": "**Коммерсантъ — Бизнес"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-telecom.xml",
+    "source": "**Коммерсантъ — Телекоммуникации"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-market.xml",
+    "source": "**Коммерсантъ — Потребительский рынок"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-world.xml",
+    "source": "**Коммерсантъ — В мире"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-accidents.xml",
+    "source": "**Коммерсантъ — Происшествия"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-society.xml",
+    "source": "**Коммерсантъ — Общество"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-culture.xml",
+    "source": "**Коммерсантъ — Культура"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-sport.xml",
+    "source": "**Коммерсантъ — Спорт"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-auto.xml",
+    "source": "**Коммерсантъ — Авто"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-hitech.xml",
+    "source": "**Коммерсантъ — Hi-tech"
+  },
+  {
+    "url": "https://www.kommersant.ru/RSS/section-style.xml",
+    "source": "**Коммерсантъ — Стиль"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/piter_all.xml",
+    "source": "**Коммерсантъ — Санкт-Петербург"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/vrn_all.xml",
+    "source": "**Коммерсантъ — Воронеж"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/ekaterinburg_all.xml",
+    "source": "**Коммерсантъ — Екатеринбург"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/izhevsk_all.xml",
+    "source": "**Коммерсантъ — Ижевск"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/kavkaz_all.xml",
+    "source": "**Коммерсантъ — Кавказ"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/kazan_all.xml",
+    "source": "**Коммерсантъ — Казань"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/krasnodar_all.xml",
+    "source": "**Коммерсантъ — Краснодар"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/krasnoyarsk_all.xml",
+    "source": "**Коммерсантъ — Красноярск"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/nnov_all.xml",
+    "source": "**Коммерсантъ — Нижний Новгород"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/novorossiysk_all.xml",
+    "source": "**Коммерсантъ — Новороссийск"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/novosibirsk_all.xml",
+    "source": "**Коммерсантъ — Новосибирск"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/perm_all.xml",
+    "source": "**Коммерсантъ — Пермь"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/rostov_all.xml",
+    "source": "**Коммерсантъ — Ростов-на-Дону"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/samara_all.xml",
+    "source": "**Коммерсантъ — Самара"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/saratov_all.xml",
+    "source": "**Коммерсантъ — Саратов"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/sochi_all.xml",
+    "source": "**Коммерсантъ — Сочи"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/ufa_all.xml",
+    "source": "**Коммерсантъ — Уфа"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/chelyabinsk_all.xml",
+    "source": "**Коммерсантъ — Челябинск"
+  },
+  {
+    "url": "https://www.kommersant.ru/rss/regions/yaroslavl_all.xml",
+    "source": "**Коммерсантъ — Ярославль"
+  },
 	     {
       "url": "https://www.mk.ru/rss/index.xml",
       "source": "**Московский Комсомолец"
