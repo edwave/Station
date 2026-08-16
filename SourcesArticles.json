@@ -7,6 +7,10 @@
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
     },
+	   {
+      "url": "https://www.benzinga.com/latest?feed=rss",
+      "source": "*Benzinga"
+    },
 	     {
       "url": "https://www.telegraaf.nl/financieel/geld/rss",
       "source": "*Telegraaf Persoonlijke financiën, sparen, belastingen"
