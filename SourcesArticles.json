@@ -9,8 +9,44 @@
     },
 	   {
       "url": "https://www.benzinga.com/latest?feed=rss",
+      "source": "*Benzinga latest"
+    },
+	    {
+      "url": "https://news.google.com/rss/search?q=site%3Areuters.com+markets+stocks+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "*Reuters market stock"
+    },
+	   
+	                    
+	   {
+      "url": "https://www.benzinga.com/feed",
       "source": "*Benzinga"
     },
+	   {
+      "url": "https://seekingalpha.com/market\_currents.xml",
+      "source": "*seekingalpha market"
+    },
+	   {
+      "url": "https://seekingalpha.com/feed.xml",
+      "source": "*seekingalpha latest"
+    },
+	   {
+      "url": "https://www.investing.com/rss/news.rss",
+      "source": "*Investing"
+    },
+	   {
+	   
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "source": "*CNBC"
+    },
+	    {
+      "url": "https://finance.yahoo.com/rss/topstories",
+      "source": "*Yahoo Top Stories"
+    },
+	    {
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "source": "*Yahoo finance"
+    },
+	    
 	     {
       "url": "https://www.telegraaf.nl/financieel/geld/rss",
       "source": "*Telegraaf Persoonlijke financiën, sparen, belastingen"
