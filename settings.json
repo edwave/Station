@@ -1,0 +1,24 @@
+{
+  
+    "ai_symbols": [
+    "NVDA-228.71-2",
+      "TSM-438.00-1",
+      "SNDK-1691.25-0.16",
+      "GOOGL-374.41-0.29",
+      "AMZN-279.50-0.26",
+      "MRVL-224.20",
+      "COHR",
+      "ARM",
+"QCOM","WDC",
+      "SPCX",
+      "SKHY",
+      "AMD",
+      "ASML",
+"AAPL-315.16",
+"STX","NET","DELL","META",
+"RVMD","LLY","MRNA","LRCX","MSFT","AMAT","ORCL","AVGO",
+"CVX","MA","BAC","GE",
+      "MSFT"
+    ]
+  }
+}
