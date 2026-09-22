@@ -1,6 +1,7 @@
 {
   
     "ai_symbols": [
+      "^IXIC",
     "NVDA-228.71-2",
       "TSM-438.00-1",
       "SNDK-1691.25-0.16",
@@ -18,7 +19,7 @@
       
 "AAPL-315.16",
 "STX","NET","DELL","META",
-"RVMD","LLY","MRNA","LRCX","MSFT","AMAT","ORCL","AVGO",
+"RVMD","LLY","MRNA","LRCX","AMAT","ORCL","AVGO",
 "CVX","MA","BAC","GE",
       "MSFT"
     ]
