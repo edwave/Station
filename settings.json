@@ -1,27 +1,31 @@
 {
   
     "ai_symbols": [
-      "^IXIC",
+      
     "NVDA-228.71-2",
-      "TSM-438.00-1",
-      "SNDK-1691.25-0.16",
-      "GOOGL-374.41-0.29",
+      "SNDK-1706.61-0.46",
+      "MRVL-252.74-0.5",
+      "SKHY-182.29-0.75",
+       "COHR-297.44-0.5",
+      "ARM-285.64-0.36",
+"QCOM-187.68-0.6",
+       "GOOGL-374.41-0.29",
       "AMZN-279.50-0.26",
-      "MRVL-224.20",
+      
       "MU",
-      "SKHY",
+      
       "AMD",
       "ASML",
-      "COHR",
-      "ARM",
-"QCOM","WDC",
+     "WDC",
+     
       "SPCX",
       
 "AAPL-315.16",
-"STX","NET","DELL","META",
+"TSM-438.00-1",
+      "STX","NET","DELL","META",
 "RVMD","LLY","MRNA","LRCX","AMAT","ORCL","AVGO",
 "CVX","MA","BAC","GE",
-      "MSFT"
+      "MSFT","^IXIC"
     ]
   
 }
