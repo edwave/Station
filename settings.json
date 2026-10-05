@@ -12,8 +12,7 @@
        "GOOGL-374.41-0.29-1.1647",
       "AMZN-279.50-0.26-1.15",
         "CIFR-16.56-2-1.1340",
-      "WULF",
-     "ZURA",
+
      "OCUL-7.84-2-1.1340",
       "ALT-2.98-5-1.1343",
       "MU",
@@ -22,12 +21,15 @@
      "WDC",
      
       "SPCX",
-      
+            "INTC",
+     "MSFT",
 "AAPL-315.16",
 "TSM-438.00-1",
       "STX","NET","DELL","META",
 "RVMD","LLY","MRNA","LRCX","AMAT","ORCL","AVGO",
 "CVX","MA","BAC","GE",
+            "WULF",
+     "ZURA",
       "MSFT","^IXIC"
     ]
   
