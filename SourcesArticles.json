@@ -7,6 +7,38 @@
       "url": "https://fd.nl/?rss",
       "source": "FD nieuws"
     },
+	    {
+      "url": "https://www.corriere.it/dynamic-feed/rss/section/Roma.xml",
+      "source": "Corriere della Sera Roma"
+    },
+	{
+      "url": "https://www.omroepwest.nl/rss/index.xml",
+      "source": "omroepwest.nl" 
+    },
+	        {
+      "url": "https://www.telegraaf.nl/rss",
+      "source": "De telegraaf voorpagina"
+    },
+	   {
+      "url": "https://news.rambler.ru/rss/head/",
+      "source": "**Главные новости — Рамблер"
+    },
+	   {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "source": "New York Times world" 
+    },
+	     {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+      "source": "New York Times europe" 
+    },
+	     {
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
+      "source": "El Mundo Internacional"
+    },
+	{
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "source": "*CNBC.Real-time market sentiment"
+    },
 	   {
       "url": "https://www.benzinga.com/latest?feed=rss",
       "source": "*Benzinga latest"
@@ -51,14 +83,7 @@
       "url": "https://www.telegraaf.nl/financieel/geld/rss",
       "source": "*Telegraaf Persoonlijke financiën, sparen, belastingen"
     },
-	    {
-      "url": "https://www.corriere.it/dynamic-feed/rss/section/Roma.xml",
-      "source": "Corriere della Sera Roma"
-    },
-	{
-      "url": "https://www.omroepwest.nl/rss/index.xml",
-      "source": "omroepwest.nl" 
-    },
+	   
 	   {
       "url": "https://news.google.com/rss/search?q=site%3Areuters.com&hl=en-US&gl=US&ceid=US%3Aen",
       "source": "*Reuters news"
@@ -105,30 +130,7 @@
       "url": "https://spb.kp.ru/rss/allsections.xml",
       "source": "**Комсомольская правда"
     },
-	      {
-      "url": "https://www.telegraaf.nl/rss",
-      "source": "De telegraaf voorpagina"
-    },
-	   {
-      "url": "https://news.rambler.ru/rss/head/",
-      "source": "**Главные новости — Рамблер"
-    },
-	   {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-      "source": "New York Times world" 
-    },
-	     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
-      "source": "New York Times europe" 
-    },
-	     {
-      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml",
-      "source": "El Mundo Internacional"
-    },
-	{
-      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-      "source": "*CNBC.Real-time market sentiment"
-    },{
+	 {
       "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories",
       "source": "*MarketWatch.Praktisch voor beleggers"
     },{
